@@ -1,0 +1,1028 @@
+Sound libraries: credits and licences
+=====================================
+
+Third-party sounds used by the route visualiser, for non-commercial
+research and teaching. Levels were adjusted so each library's median
+matches Moodist's own sounds; coordinates were derived from each
+source's published ratings as described below.
+
+ARAUS maskers
+-------------
+Source:      https://researchdata.ntu.edu.sg/dataset.xhtml?persistentId=doi:10.21979/N9/9OTEVX
+Cite:        Ooi, K., et al. (2023). ARAUS: A large-scale dataset and baseline models of affective responses to augmented urban soundscapes. IEEE Transactions on Affective Computing. Data: doi:10.21979/N9/9OTEVX. CC BY-NC 4.0. Masker levels adjusted; positions derived from the published ratings.
+Licence:     CC BY-NC 4.0: may be shared for non-commercial use with credit, including changes made (levels adjusted).
+Coordinates: ISO/TS 12913-3 pleasantness and eventfulness of the urban soundscapes each masker was added to, at the loudest masker level. Describes the masker in context, not on its own.
+
+  Bird · 00001 | genghis attenborough, FS257445. Accessible at https://freesound.org/s/257445/. | Creative Commons Attribution-NonCommercial 3.0
+  Bird · 00002 | Tim Kahn, FS 317450. Accessible at https://freesound.org/s/317450. | Creative Commons Attribution-NonCommercial 3.0
+  Bird · 00003 | soumen59, FS478637. Accessible at https://freesound.org/s/478637. | Creative Commons 0
+  Bird · 00004 | Bernabe Lopez-Lanus, XC50850. Accessible at www.xeno-canto.org/50850. | Creative Commons Attribution-NonCommercial-ShareAlike 3.0
+  Bird · 00005 | Jeremy Minns, XC85417. Accessible at www.xeno-canto.org/85417. | Creative Commons Attribution-NonCommercial-ShareAlike 3.0
+  Bird · 00006 | Andrew Spencer, XC109203. Accessible at www.xeno-canto.org/109203. | Creative Commons Attribution-NonCommercial-ShareAlike 3.0
+  Bird · 00007 | Niels Krabbe, XC112734. Accessible at www.xeno-canto.org/112734. | Creative Commons Attribution-ShareAlike 3.0
+  Bird · 00008 | Chris Harrison, XC122469. Accessible at www.xeno-canto.org/122469. | Creative Commons Attribution-NonCommercial-ShareAlike 3.0
+  Bird · 00009 | Andrew Spencer, XC133059. Accessible at www.xeno-canto.org/133059. | Creative Commons Attribution-NonCommercial-ShareAlike 3.0
+  Bird · 00010 | Tom Forwood Jr., XC134886. Accessible at www.xeno-canto.org/134886. | Creative Commons Attribution-NonCommercial-ShareAlike 3.0
+  Bird · 00011 | Martin St-Michel, XC137556. Accessible at www.xeno-canto.org/137556. | Creative Commons Attribution-NonCommercial-ShareAlike 3.0
+  Bird · 00012 | Paul Driver, XC140239. Accessible at www.xeno-canto.org/140239. | Creative Commons Attribution-NonCommercial-ShareAlike 3.0
+  Bird · 00013 | Paul Driver, XC184374. Accessible at www.xeno-canto.org/184374. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00014 | Richard E. Webster, XC185560. Accessible at www.xeno-canto.org/185560. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00015 | Ross Gallardy, XC203258. Accessible at www.xeno-canto.org/203258. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00016 | Niels Krabbe, XC242969. Accessible at www.xeno-canto.org/242969. | Creative Commons Attribution-ShareAlike 4.0
+  Bird · 00017 | Manuel Grosselet, XC255139. Accessible at www.xeno-canto.org/255139. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00018 | Greg Irving, XC301810. Accessible at www.xeno-canto.org/301810. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00020 | Greg Irving, XC332810. Accessible at www.xeno-canto.org/332810. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00021 | Richard E. Webster, XC348370. Accessible at www.xeno-canto.org/348370. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00022 | Richard E. Webster, XC350943. Accessible at www.xeno-canto.org/350943. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00023 | Ethan Duke, XC368749. Accessible at www.xeno-canto.org/368749. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00024 | Eric DeFonso, XC370485. Accessible at www.xeno-canto.org/370485. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00025 | Eric DeFonso, XC370500. Accessible at www.xeno-canto.org/370500. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00026 | Bobby Wilcox, XC375911. Accessible at www.xeno-canto.org/375911. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00027 | Michael Harrison, XC376468. Accessible at www.xeno-canto.org/376468. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00028 | Sue Riffe, XC419391. Accessible at www.xeno-canto.org/419391. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00029 | Gabriel Leite, XC420908. Accessible at www.xeno-canto.org/420908. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00030 | Toby Esplin, XC445899. Accessible at www.xeno-canto.org/445899. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00031 | Paul Marvin, XC449522. Accessible at www.xeno-canto.org/449522. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00032 | Ed Pandolfino, XC450847. Accessible at www.xeno-canto.org/450847. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00033 | Bruce Lagerquist, XC457222. Accessible at www.xeno-canto.org/457222. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00034 | Dan Lane, XC467315. Accessible at www.xeno-canto.org/467315. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00035 | Ramit Singal, XC470089. Accessible at www.xeno-canto.org/470089. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00036 | Scott Gravette, XC475279. Accessible at www.xeno-canto.org/475279. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00037 | Eric Seidlitz, XC477488. Accessible at www.xeno-canto.org/477488. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00038 | Thomas G. Graves, XC480035. Accessible at www.xeno-canto.org/480035. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00039 | Paul Marvin, XC481933. Accessible at www.xeno-canto.org/481933. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00040 | Matt Wistrand, XC482053. Accessible at www.xeno-canto.org/482053. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00041 | Ed Pandolfino, XC482274. Accessible at www.xeno-canto.org/482274. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00042 | Stanislas Wroza, XC485841. Accessible at www.xeno-canto.org/485841. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00043 | Gabriel Leite, XC489739. Accessible at www.xeno-canto.org/489739. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00044 | Richard E. Webster, XC503057. Accessible at www.xeno-canto.org/503057. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00045 | Guy Kirwan, XC505573. Accessible at www.xeno-canto.org/505573. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00046 | Stijn Baeten, XC509271. Accessible at www.xeno-canto.org/509271. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00047 | Bruce Lagerquist, XC518767. Accessible at www.xeno-canto.org/518767. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00048 | John Howes , XC518843. Accessible at www.xeno-canto.org/518843. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00049 | Sathyan Meppayur, XC537855. Accessible at www.xeno-canto.org/537855. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00050 | Paul Marvin, XC545465. Accessible at www.xeno-canto.org/545465. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00051 | Anon Torimi, XC552316. Accessible at www.xeno-canto.org/552316. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00052 | Thomas Bergman, XC553169. Accessible at www.xeno-canto.org/553169. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00053 | Matt Wistrand, XC554222. Accessible at www.xeno-canto.org/554222. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00054 | Eetu Paljakka, XC555184. Accessible at www.xeno-canto.org/555184. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00055 | Caio Brito, XC556166. Accessible at www.xeno-canto.org/556166. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00056 | Bobby Wilcox, XC562095. Accessible at www.xeno-canto.org/562095. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00057 | Bruce Lagerquist, XC566219. Accessible at www.xeno-canto.org/566219. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00058 | Bobby Wilcox, XC570338. Accessible at www.xeno-canto.org/570338. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00059 | Richard E. Webster, XC571000. Accessible at www.xeno-canto.org/571000. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00060 | David Welch, XC575300. Accessible at www.xeno-canto.org/575300. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00061 | Dhruba Saikia, XC578478. Accessible at www.xeno-canto.org/578478. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00062 | Richard E. Webster, XC579905. Accessible at www.xeno-canto.org/579905. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00063 | Eric DeFonso, XC580986. Accessible at www.xeno-canto.org/580986. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00064 | Jarrod Swackhamer, XC591803. Accessible at www.xeno-canto.org/591803. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00065 | Peter Ward and Ken Hall, XC598469. Accessible at www.xeno-canto.org/598469. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00066 | Christopher McPherson, XC600292. Accessible at www.xeno-canto.org/600292. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00067 | Christopher McPherson, XC600707. Accessible at www.xeno-canto.org/600707. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00068 | Christopher McPherson, XC600722. Accessible at www.xeno-canto.org/600722. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00069 | Christopher McPherson, XC601752. Accessible at www.xeno-canto.org/601752. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00070 | Peter Ward and Ken Hall, XC601772. Accessible at www.xeno-canto.org/601772. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00071 | Christopher McPherson, XC602571. Accessible at www.xeno-canto.org/602571. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00072 | Christopher McPherson, XC602677. Accessible at www.xeno-canto.org/602677. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00073 | Ray Cooke, XC603552. Accessible at www.xeno-canto.org/603552. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00074 | Jacobo Ramil MIllarengo, XC604251. Accessible at www.xeno-canto.org/604251. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00075 | Joao Tomas, XC604437. Accessible at www.xeno-canto.org/604437. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00076 | Richard E. Webster, XC608496. Accessible at www.xeno-canto.org/608496. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00077 | Richard E. Webster, XC611766. Accessible at www.xeno-canto.org/611766. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00078 | Sue Riffe, XC612865. Accessible at www.xeno-canto.org/612865. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00079 | Richard E. Webster, XC613796. Accessible at www.xeno-canto.org/613796. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 00080 | Richard E. Webster, XC614063. Accessible at www.xeno-canto.org/614063. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 10001 | Lynette Rudman, XC640568. Accessible at www.xeno-canto.org/640568. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 10002 | Lars Edenius, XC568124. Accessible at www.xeno-canto.org/568124. | Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  Bird · 20001 | Mikko Heikkinen, XC737262. Accessible at www.xeno-canto.org/737262. | Creative Commons Attribution 4.0
+  Bird · 20002 | Jochem verweij, XC757935. Accessible at www.xeno-canto.org/757935. | Creative Commons Attribution-ShareAlike 4.0
+  Bird · 20003 | Vihansith Kulatunga, XC680927. Accessible at www.xeno-canto.org/680927. | Creative Commons Attribution-ShareAlike 4.0
+  Bird · 20004 | Justin Watts, XC561828. Accessible at www.xeno-canto.org/561828. | Creative Commons Attribution-ShareAlike 4.0
+  Bird · 20005 | Vianney Bajart, XC649712. Accessible at www.xeno-canto.org/649712. | Creative Commons Attribution-ShareAlike 4.0
+  Bird · 20006 | Sonotheque ADVL, XC730600. Accessible at www.xeno-canto.org/730600. | Creative Commons Public Domain Dedication 1.0
+  Bird · 20007 | paulo kivuyo, XC622342. Accessible at www.xeno-canto.org/622342. | Creative Commons Attribution-ShareAlike 4.0
+  Bird · 20008 | craig wilson, XC599689. Accessible at www.xeno-canto.org/599689. | Creative Commons Attribution 4.0
+  Bird · 20009 | Flavio C.T. Lima, XC776354. Accessible at www.xeno-canto.org/776354. | Creative Commons Public Domain Dedication 1.0
+  Bird · 20010 | Doug Hynes, XC671347. Accessible at www.xeno-canto.org/671347. | Creative Commons Attribution-ShareAlike 4.0
+  Bird · 20011 | Max Karlsson, XC655262. Accessible at www.xeno-canto.org/655262. | Creative Commons Attribution-ShareAlike 4.0
+  Bird · 20012 | Sonotheque ADVL, XC707096. Accessible at www.xeno-canto.org/707096. | Creative Commons Public Domain Dedication 1.0
+  Bird · 20013 | James Ray, XC570705. Accessible at www.xeno-canto.org/570705. | Creative Commons Attribution-ShareAlike 4.0
+  Bird · 20014 | Renaldy Mamonto, XC581193. Accessible at www.xeno-canto.org/581193. | Creative Commons Attribution-ShareAlike 4.0
+  Bird · 20015 | Srinivas Mallela, XC764466. Accessible at www.xeno-canto.org/764466. | Creative Commons Attribution 4.0
+  Bird · 20016 | Benoit Van Hecke, XC696487. Accessible at www.xeno-canto.org/696487. | Creative Commons Attribution-ShareAlike 4.0
+  Bird · 20017 | Sonotheque ADVL, XC707329. Accessible at www.xeno-canto.org/707329. | Creative Commons Public Domain Dedication 1.0
+  Bird · 20018 | K L Vinay, XC588179. Accessible at www.xeno-canto.org/588179. | Creative Commons Attribution-ShareAlike 4.0
+  Bird · 20019 | Jeremy Simar, XC484364. Accessible at www.xeno-canto.org/484364. | Creative Commons Attribution 4.0
+  Bird · 20020 | Pascal Christe, XC576967. Accessible at www.xeno-canto.org/576967. | Creative Commons Attribution-ShareAlike 4.0
+  Bird · 20021 | Diana Doyle, XC717733. Accessible at www.xeno-canto.org/717733. | Creative Commons Attribution-ShareAlike 4.0
+  Bird · 20022 | Ruslan, XC602050. Accessible at www.xeno-canto.org/602050. | Creative Commons Public Domain Dedication 1.0
+  Bird · 20023 | Doug Hynes, XC670686. Accessible at www.xeno-canto.org/670686. | Creative Commons Attribution-ShareAlike 4.0
+  Bird · 20024 | paulo kivuyo, XC615753. Accessible at www.xeno-canto.org/615753. | Creative Commons Attribution-ShareAlike 4.0
+  Bird · 20025 | Alvaro Ortiz Troncoso, XC578071. Accessible at www.xeno-canto.org/578071. | Creative Commons Attribution-ShareAlike 4.0
+  Bird · 20026 | craig wilson, XC671231. Accessible at www.xeno-canto.org/671231. | Creative Commons Attribution 4.0
+  Bird · 20027 | Robert Petersen, XC562719. Accessible at www.xeno-canto.org/562719. | Creative Commons Attribution-ShareAlike 4.0
+  Bird · 20028 | Owen Camus, XC777420. Accessible at www.xeno-canto.org/777420. | Creative Commons Public Domain Dedication 1.0
+  Bird · 20029 | Carlo Fracasso, XC789701. Accessible at www.xeno-canto.org/789701. | Creative Commons Public Domain Dedication 1.0
+  Bird · 20030 | Untung Sarmawi, XC767717. Accessible at www.xeno-canto.org/767717. | Creative Commons Public Domain Dedication 1.0
+  Bird · 20031 | Jairam Vijayan, XC773505. Accessible at www.xeno-canto.org/773505. | Creative Commons Attribution-ShareAlike 4.0
+  Bird · 20032 | Marie-Lan Tay Pamart, XC644286. Accessible at www.xeno-canto.org/644286. | Creative Commons Attribution-ShareAlike 4.0
+  Construction · 00001 | bsumusictech, FS62394. Accessible at https://freesound.org/s/62394. | Creative Commons 0
+  Construction · 00002 | kijjaz, FS74505. Accessible at https://freesound.org/s/74505. | Creative Commons 0
+  Construction · 00003 | ciccarelli, FS112637. Accessible at https://freesound.org/s/112637. | Creative Commons Attribution 3.0
+  Construction · 00004 | G.Lamont, FS118042. Accessible at https://freesound.org/s/118042. | Creative Commons 0
+  Construction · 00005 | jberkuta14, FS134896. Accessible at https://freesound.org/s/134896. | Creative Commons 0
+  Construction · 00006 | Robinhood76, FS149777. Accessible at https://freesound.org/s/149777. | Creative Commons Attribution-NonCommercial 3.0
+  Construction · 00007 | bmoreno, FS169098. Accessible at https://freesound.org/s/169098. | Creative Commons Attribution 3.0
+  Construction · 00008 | YOH, FS170873. Accessible at https://freesound.org/s/170873. | Creative Commons Attribution 3.0
+  Construction · 00009 | cmykify, FS171400. Accessible at https://freesound.org/s/171400. | Creative Commons 0
+  Construction · 00010 | Zabuhailo, FS173106. Accessible at https://freesound.org/s/173106. | Creative Commons Attribution 3.0
+  Construction · 00011 | sarcasticbracket, FS192176. Accessible at https://freesound.org/s/192176. | Creative Commons Attribution-NonCommercial 3.0
+  Construction · 00012 | sengjinn, FS193351. Accessible at https://freesound.org/s/193351. | Creative Commons 0
+  Construction · 00013 | jakobthiesen, FS194866. Accessible at https://freesound.org/s/194866. | Creative Commons Attribution 3.0
+  Construction · 00014 | MaxwellBeers, FS218748. Accessible at https://freesound.org/s/218748. | Creative Commons Attribution 3.0
+  Construction · 00015 | Ajexk, FS246171. Accessible at https://freesound.org/s/246171. | Creative Commons 0
+  Construction · 00016 | SoundLover16, FS289478. Accessible at https://freesound.org/s/289478. | Creative Commons Attribution 3.0
+  Construction · 00017 | KasperAugustTopp, FS328141. Accessible at https://freesound.org/s/328141. | Creative Commons Attribution 3.0
+  Construction · 00018 | ivolipa, FS335963. Accessible at https://freesound.org/s/335963. | Creative Commons 0
+  Construction · 00019 | HuilletO, FS361777. Accessible at https://freesound.org/s/361777. | Creative Commons 0
+  Construction · 00020 | kyles, FS362068. Accessible at https://freesound.org/s/362068. | Creative Commons 0
+  Construction · 00021 | Maurice_J_K, FS376405. Accessible at https://freesound.org/s/376405. | Creative Commons Attribution 3.0
+  Construction · 00022 | deleted_user_7146007, FS383442. Accessible at https://freesound.org/s/383442. | Creative Commons 0
+  Construction · 00023 | canakkale1, FS384837. Accessible at https://freesound.org/s/384837. | Creative Commons 0
+  Construction · 00024 | Jonathan Shaw (InspectorJ), FS400991. Accessible at https://freesound.org/s/400991. | Creative Commons Attribution 3.0
+  Construction · 00025 | Apheo, FS421050. Accessible at https://freesound.org/s/421050. | Creative Commons 0
+  Construction · 00026 | kyles, FS455683. Accessible at https://freesound.org/s/455683. | Creative Commons 0
+  Construction · 00027 | mrrap4food, FS483556. Accessible at https://freesound.org/s/483556. | Creative Commons 0
+  Construction · 00028 | NicknameLarry, FS488828. Accessible at https://freesound.org/s/488828. | Creative Commons 0
+  Construction · 00029 | Jorge_M_Rodrigues, FS522584. Accessible at https://freesound.org/s/522584. | Creative Commons Attribution 3.0
+  Construction · 00030 | CBJ_Student, FS545183. Accessible at https://freesound.org/s/545183. | Creative Commons Attribution 3.0
+  Construction · 00031 | Kenneth Ooi, FS553475. Accessible at https://freesound.org/s/553475. | Creative Commons Attribution 3.0
+  Construction · 00032 | Kenneth Ooi, FS553476. Accessible at https://freesound.org/s/553476. | Creative Commons Attribution 3.0
+  Construction · 00033 | Sungchan Lee, FS555025. Accessible at https://freesound.org/s/555025. | Creative Commons Attribution-NonCommercial 3.0
+  Construction · 00034 | Sungchan Lee, FS555026. Accessible at https://freesound.org/s/555026. | Creative Commons Attribution-NonCommercial 3.0
+  Construction · 00035 | Sungchan Lee, FS555034. Accessible at https://freesound.org/s/555034. | Creative Commons Attribution-NonCommercial 3.0
+  Construction · 00036 | Sungchan Lee, FS555035. Accessible at https://freesound.org/s/555035. | Creative Commons Attribution-NonCommercial 3.0
+  Construction · 00037 | Sungchan Lee, FS555037. Accessible at https://freesound.org/s/555037. | Creative Commons Attribution-NonCommercial 3.0
+  Construction · 00038 | Sungchan Lee, FS555038. Accessible at https://freesound.org/s/555038. | Creative Commons Attribution-NonCommercial 3.0
+  Construction · 00039 | Sungchan Lee, FS555039. Accessible at https://freesound.org/s/555039. | Creative Commons Attribution-NonCommercial 3.0
+  Construction · 00040 | Sungchan Lee, FS555040. Accessible at https://freesound.org/s/555040. | Creative Commons Attribution-NonCommercial 3.0
+  Construction · 10001 | PostProdDog, FS586168. Accessible at https://freesound.org/s/586168/. | Creative Commons 0
+  Construction · 20001 | eee.dsplab, FS683019. Accessible at https://freesound.org/s/683019/. | Creative Commons Attribution 4.0
+  Construction · 20002 | craigsmith, FS675147. Accessible at https://freesound.org/s/675147/. | Creative Commons 0
+  Construction · 20003 | craigsmith, FS675206. Accessible at https://freesound.org/s/675206/. | Creative Commons 0
+  Construction · 20004 | craigsmith, FS675536. Accessible at https://freesound.org/s/675536/. | Creative Commons 0
+  Construction · 20005 | nathankwright, FS676034. Accessible at https://freesound.org/s/676034/. | Creative Commons 0
+  Construction · 20006 | kevp888, FS677261. Accessible at https://freesound.org/s/677261/. | Creative Commons Attribution 4.0
+  Construction · 20007 | jeromeblum, FS679055. Accessible at https://freesound.org/s/679055/. | Creative Commons 0
+  Construction · 20008 | Garuda1982, FS679739. Accessible at https://freesound.org/s/679739/. | Creative Commons Attribution 4.0
+  Construction · 20009 | cagankaya, FS680040. Accessible at https://freesound.org/s/680040/. | Creative Commons 0
+  Construction · 20010 | NicholasJudy567, FS682593. Accessible at https://freesound.org/s/682593/. | Creative Commons 0
+  Construction · 20011 | albahij, FS683111. Accessible at https://freesound.org/s/683111/. | Creative Commons 0
+  Construction · 20012 | JoniHeinonen, FS169163. Accessible at https://freesound.org/s/169163/. | Creative Commons Attribution 3.0
+  Construction · 20013 | dethrok, FS272170. Accessible at https://freesound.org/s/272170/. | Creative Commons 0
+  Construction · 20014 | Sailor55, FS222037. Accessible at https://freesound.org/s/222037/. | Creative Commons 0
+  Construction · 20015 | Garuda1982, FS564724. Accessible at https://freesound.org/s/564724/. | Creative Commons Attribution 4.0
+  Construction · 20016 | uair01, FS57782. Accessible at https://freesound.org/s/57782/. | Creative Commons Attribution 3.0
+  Traffic · 00001 | ljudman, FS23273. Accessible at https://freesound.org/s/23273. | Creative Commons Sampling Plus 1.0
+  Traffic · 00002 | 3bagbrew, FS65807. Accessible at https://freesound.org/s/65807. | Creative Commons Attribution 3.0
+  Traffic · 00003 | Robinhood76, FS67704. Accessible at https://freesound.org/s/67704. | Creative Commons Attribution-NonCommercial 3.0
+  Traffic · 00004 | Olby, FS77016. Accessible at https://freesound.org/s/77016. | Creative Commons 0
+  Traffic · 00005 | cmusounddesign, FS84645. Accessible at https://freesound.org/s/84645. | Creative Commons Attribution 3.0
+  Traffic · 00006 | cmusounddesign, FS84646. Accessible at https://freesound.org/s/84646. | Creative Commons Attribution 3.0
+  Traffic · 00007 | geraeusch, FS93329. Accessible at https://freesound.org/s/93329. | Creative Commons Attribution-NonCommercial 3.0
+  Traffic · 00008 | nickpursehouse, FS110309. Accessible at https://freesound.org/s/110309. | Creative Commons 0
+  Traffic · 00009 | G.Lamont, FS118046. Accessible at https://freesound.org/s/118046. | Creative Commons 0
+  Traffic · 00010 | panikko, FS149814. Accessible at https://freesound.org/s/149814. | Creative Commons Attribution-NonCommercial 3.0
+  Traffic · 00011 | klangfabrik, FS160002. Accessible at https://freesound.org/s/160002. | Creative Commons 0
+  Traffic · 00012 | bmoreno, FS160015. Accessible at https://freesound.org/s/160015. | Creative Commons Attribution 3.0
+  Traffic · 00013 | inchadney, FS173154. Accessible at https://freesound.org/s/173154. | Creative Commons Attribution-NonCommercial 3.0
+  Traffic · 00014 | klankbeeld, FS180156. Accessible at https://freesound.org/s/180156. | Creative Commons Attribution 3.0
+  Traffic · 00015 | malupeeters, FS191350. Accessible at https://freesound.org/s/191350. | Creative Commons Attribution 3.0
+  Traffic · 00016 | mhtaylor67, FS235531. Accessible at https://freesound.org/s/235531. | Creative Commons 0
+  Traffic · 00017 | blaukreuz, FS243720. Accessible at https://freesound.org/s/243720. | Creative Commons 0
+  Traffic · 00018 | leytos, FS252216. Accessible at https://freesound.org/s/252216. | Creative Commons Attribution-NonCommercial 3.0
+  Traffic · 00019 | Stevious42, FS259629. Accessible at https://freesound.org/s/259629. | Creative Commons Attribution 3.0
+  Traffic · 00020 | ivolipa, FS261344. Accessible at https://freesound.org/s/261344. | Creative Commons 0
+  Traffic · 00021 | derserwas, FS262830. Accessible at https://freesound.org/s/262830. | Creative Commons 0
+  Traffic · 00022 | rempen, FS274830. Accessible at https://freesound.org/s/274830. | Creative Commons 0
+  Traffic · 00023 | rucisko, FS322231. Accessible at https://freesound.org/s/322231. | Creative Commons 0
+  Traffic · 00024 | deleted_user_2104797, FS330288. Accessible at https://freesound.org/s/330288. | Creative Commons 0
+  Traffic · 00025 | giddster, FS336649. Accessible at https://freesound.org/s/336649. | Creative Commons 0
+  Traffic · 00026 | ivolipa, FS337095. Accessible at https://freesound.org/s/337095. | Creative Commons 0
+  Traffic · 00027 | mboscolo, FS370009. Accessible at https://freesound.org/s/370009. | Creative Commons Attribution 3.0
+  Traffic · 00028 | lietoofine, FS394689. Accessible at https://freesound.org/s/394689. | Creative Commons 0
+  Traffic · 00029 | katfolker, FS426886. Accessible at https://freesound.org/s/426886. | Creative Commons 0
+  Traffic · 00030 | jodybruchon, FS433869. Accessible at https://freesound.org/s/433869. | Creative Commons 0
+  Traffic · 00031 | neilraouf, FS434302. Accessible at https://freesound.org/s/434302. | Creative Commons 0
+  Traffic · 00032 | bkowshik, FS439218. Accessible at https://freesound.org/s/439218. | Creative Commons 0
+  Traffic · 00033 | courter, FS448092. Accessible at https://freesound.org/s/448092. | Creative Commons 0
+  Traffic · 00034 | etienne.leplumey, FS454864. Accessible at https://freesound.org/s/454864. | Creative Commons Attribution 3.0
+  Traffic · 00035 | alec_mackay, FS463636. Accessible at https://freesound.org/s/463636. | Creative Commons 0
+  Traffic · 00036 | richwise, FS503456. Accessible at https://freesound.org/s/503456. | Creative Commons 0
+  Traffic · 00037 | logancircle2, FS504138. Accessible at https://freesound.org/s/504138. | Creative Commons 0
+  Traffic · 00038 | lupalenzuela, FS512142. Accessible at https://freesound.org/s/512142. | Creative Commons 0
+  Traffic · 00039 | CBJ_Student, FS546474. Accessible at https://freesound.org/s/546474. | Creative Commons Attribution 3.0
+  Traffic · 00040 | chrov_, FS551451. Accessible at https://freesound.org/s/551451. | Creative Commons Attribution-NonCommercial 3.0
+  Traffic · 10001 | Kristijonas_Lucinskas, FS587219. Accessible at https://freesound.org/s/587219/. | Creative Commons 0
+  Traffic · 20001 | Androxen, FS681455. Accessible at https://freesound.org/s/681455/. | Creative Commons Attribution 4.0
+  Traffic · 20002 | peterkotrha, FS676802. Accessible at https://freesound.org/s/676802/. | Creative Commons 0
+  Traffic · 20003 | Finnssound, FS682530. Accessible at https://freesound.org/s/682530/. | Creative Commons 0
+  Traffic · 20004 | dadomiljkovic12, FS682737. Accessible at https://freesound.org/s/682737/. | Creative Commons Noncommercial 4.0
+  Traffic · 20005 | fengxiaojie, FS683325. Accessible at https://freesound.org/s/683325/. | Creative Commons 0
+  Traffic · 20006 | craigsmith, FS675315. Accessible at https://freesound.org/s/675315/. | Creative Commons 0
+  Traffic · 20007 | petrich0r, FS683765. Accessible at https://freesound.org/s/683765/. | Creative Commons Attribution 4.0
+  Traffic · 20008 | Anilan, FS684103. Accessible at https://freesound.org/s/684103/. | Creative Commons 0
+  Traffic · 20009 | RutgerMuller, FS364813. Accessible at https://freesound.org/s/364813/. | Creative Commons 0
+  Traffic · 20010 | sagetyrtle, FS99812. Accessible at https://freesound.org/s/99812/. | Creative Commons 0
+  Traffic · 20011 | kevp888, FS679741. Accessible at https://freesound.org/s/679741/. | Creative Commons Attribution 4.0
+  Traffic · 20012 | klankbeeld, FS172521. Accessible at https://freesound.org/s/172521/. | Creative Commons Attribution 4.0
+  Traffic · 20013 | CraftyIndividual, FS418436. Accessible at https://freesound.org/s/418436/. | Creative Commons 0
+  Traffic · 20014 | Soundholder, FS425624. Accessible at https://freesound.org/s/425624/. | Creative Commons Attribution 3.0
+  Traffic · 20015 | SoundAppProject, FS537544. Accessible at https://freesound.org/s/537544/. | Creative Commons 0
+  Traffic · 20016 | klangfabrik, FS570535. Accessible at https://freesound.org/s/570535/. | Creative Commons 0
+  Water · 00001 | arnaud coutancier, FS56771. Accessible at https://freesound.org/s/56771. | Creative Commons Attribution-NonCommercial 3.0
+  Water · 00002 | bsumusictech, FS62395. Accessible at https://freesound.org/s/62395. | Creative Commons 0
+  Water · 00003 | soundrecorder7, FS167034. Accessible at https://freesound.org/s/167034. | Creative Commons 0
+  Water · 00004 | klankbeeld, FS169181. Accessible at https://freesound.org/s/169181. | Creative Commons Attribution 3.0
+  Water · 00005 | skyko, FS169250. Accessible at https://freesound.org/s/169250. | Creative Commons 0
+  Water · 00006 | KaiLietzke, FS185062. Accessible at https://freesound.org/s/185062. | Creative Commons Attribution 3.0
+  Water · 00007 | Tritus, FS202915. Accessible at https://freesound.org/s/202915. | Creative Commons Attribution 3.0
+  Water · 00008 | lebaston100, FS243629. Accessible at https://freesound.org/s/243629. | Creative Commons Attribution 3.0
+  Water · 00009 | monotraum, FS249485. Accessible at https://freesound.org/s/249485. | Creative Commons 0
+  Water · 00010 | Jagadamba, FS256009. Accessible at https://freesound.org/s/256009. | Creative Commons Attribution 3.0
+  Water · 00011 | ivolipa, FS260056. Accessible at https://freesound.org/s/260056. | Creative Commons 0
+  Water · 00012 | VlatkoBlazek, FS260980. Accessible at https://freesound.org/s/260980. | Creative Commons Attribution 3.0
+  Water · 00013 | klankbeeld, FS261445. Accessible at https://freesound.org/s/261445. | Creative Commons Attribution 3.0
+  Water · 00014 | cdrk, FS264598. Accessible at https://freesound.org/s/264598. | Creative Commons Attribution 3.0
+  Water · 00015 | Keith Selmes, FS329680. Accessible at https://freesound.org/s/329680. | Creative Commons Attribution 3.0
+  Water · 00016 | omnisounddesign, FS336848. Accessible at https://freesound.org/s/336848. | Creative Commons Attribution 3.0
+  Water · 00017 | urupin, FS345649. Accessible at https://freesound.org/s/345649. | Creative Commons 0
+  Water · 00018 | Jonathan Shaw (InspectorJ), FS346641. Accessible at https://freesound.org/s/346641. | Creative Commons Attribution 3.0
+  Water · 00019 | ProductionNow, FS352902. Accessible at https://freesound.org/s/352902. | Creative Commons 0
+  Water · 00020 | Jonathan Shaw (InspectorJ), FS365915. Accessible at https://freesound.org/s/365915. | Creative Commons Attribution 3.0
+  Water · 00021 | Jonathan Shaw (InspectorJ), FS365919. Accessible at https://freesound.org/s/365919. | Creative Commons Attribution 3.0
+  Water · 00022 | plantmonkey, FS376709. Accessible at https://freesound.org/s/376709. | Creative Commons Attribution 3.0
+  Water · 00023 | amholma, FS376801. Accessible at https://freesound.org/s/376801. | Creative Commons 0
+  Water · 00024 | IchBinChrist, FS384276. Accessible at https://freesound.org/s/384276. | Creative Commons 0
+  Water · 00025 | totalcult, FS388706. Accessible at https://freesound.org/s/388706. | Creative Commons 0
+  Water · 00026 | Edo333, FS396056. Accessible at https://freesound.org/s/396056. | Creative Commons Attribution 3.0
+  Water · 00027 | Jonathan Shaw (InspectorJ), FS400402. Accessible at https://freesound.org/s/400402. | Creative Commons Attribution 3.0
+  Water · 00028 | Jonathan Shaw (InspectorJ), FS401277. Accessible at https://freesound.org/s/401277. | Creative Commons Attribution 3.0
+  Water · 00029 | DrinkingWindGames, FS410927. Accessible at https://freesound.org/s/410927. | Creative Commons Attribution 3.0
+  Water · 00030 | felix.blume, FS411509. Accessible at https://freesound.org/s/411509. | Creative Commons 0
+  Water · 00031 | straget, FS412308. Accessible at https://freesound.org/s/412308. | Creative Commons 0
+  Water · 00032 | tammarpokk, FS414762. Accessible at https://freesound.org/s/414762. | Creative Commons 0
+  Water · 00033 | roman_cgr, FS415027. Accessible at https://freesound.org/s/415027. | Creative Commons 0
+  Water · 00034 | BurghRecords, FS415151. Accessible at https://freesound.org/s/415151. | Creative Commons 0
+  Water · 00035 | vollkornbrot, FS423622. Accessible at https://freesound.org/s/423622. | Creative Commons 0
+  Water · 00036 | jackthemurray, FS433589. Accessible at https://freesound.org/s/433589. | Creative Commons 0
+  Water · 00037 | Legend1060, FS436813. Accessible at https://freesound.org/s/436813. | Creative Commons 0
+  Water · 00038 | deleted_user_8803593, FS438925. Accessible at https://freesound.org/s/438925. | Creative Commons 0
+  Water · 00039 | keng-wai-chane-chick-te, FS441152. Accessible at https://freesound.org/s/441152. | Creative Commons 0
+  Water · 00040 | koko12345, FS448766. Accessible at https://freesound.org/s/448766. | Creative Commons 0
+  Water · 00041 | florianreichelt, FS450755. Accessible at https://freesound.org/s/450755. | Creative Commons 0
+  Water · 00042 | kyles, FS454283. Accessible at https://freesound.org/s/454283. | Creative Commons 0
+  Water · 00043 | florianreichelt, FS457565. Accessible at https://freesound.org/s/457565. | Creative Commons 0
+  Water · 00044 | PianoFarm, FS459850. Accessible at https://freesound.org/s/459850. | Creative Commons 0
+  Water · 00045 | florianreichelt, FS459983. Accessible at https://freesound.org/s/459983. | Creative Commons 0
+  Water · 00046 | SamuelGremaud, FS460441. Accessible at https://freesound.org/s/460441. | Creative Commons 0
+  Water · 00047 | Julien Matthey, FS463265. Accessible at https://freesound.org/s/463265. | Creative Commons 0
+  Water · 00048 | INNORECORDS, FS469009. Accessible at https://freesound.org/s/469009. | Creative Commons 0
+  Water · 00049 | klankbeeld, FS478439. Accessible at https://freesound.org/s/478439. | Creative Commons Attribution 3.0
+  Water · 00050 | straget, FS489073. Accessible at https://freesound.org/s/489073. | Creative Commons Attribution 3.0
+  Water · 00051 | Lippy_ua, FS511098. Accessible at https://freesound.org/s/511098. | Creative Commons 0
+  Water · 00052 | mariethompson, FS516934. Accessible at https://freesound.org/s/516934. | Creative Commons 0
+  Water · 00053 | SoundShelves, FS533932. Accessible at https://freesound.org/s/533932. | Creative Commons Attribution 3.0
+  Water · 00054 | extrafonia2, FS534124. Accessible at https://freesound.org/s/534124. | Creative Commons 0
+  Water · 00055 | Ambientsoundapp, FS536223. Accessible at https://freesound.org/s/536223. | Creative Commons 0
+  Water · 00056 | Ambientsoundapp, FS537986. Accessible at https://freesound.org/s/537986. | Creative Commons 0
+  Water · 00057 | SterckxS, FS541717. Accessible at https://freesound.org/s/541717. | Creative Commons Attribution 3.0
+  Water · 00058 | tatianafeudal, FS542260. Accessible at https://freesound.org/s/542260. | Creative Commons Attribution 3.0
+  Water · 00059 | darrenmichaels, FS543579. Accessible at https://freesound.org/s/543579. | Creative Commons 0
+  Water · 00060 | Jackie-destroymeplease, FS544183. Accessible at https://freesound.org/s/544183. | Creative Commons 0
+  Water · 00061 | SamuelGremaud, FS544838. Accessible at https://freesound.org/s/544838. | Creative Commons 0
+  Water · 00062 | Refrain, FS546107. Accessible at https://freesound.org/s/546107. | Creative Commons 0
+  Water · 00063 | Danjocross, FS546236. Accessible at https://freesound.org/s/546236. | Creative Commons 0
+  Water · 00064 | klau78, FS546804. Accessible at https://freesound.org/s/546804. | Creative Commons 0
+  Water · 00065 | Globofonia, FS547012. Accessible at https://freesound.org/s/547012. | Creative Commons 0
+  Water · 00066 | klau78, FS547136. Accessible at https://freesound.org/s/547136. | Creative Commons 0
+  Water · 00067 | LPA134, FS547232. Accessible at https://freesound.org/s/547232. | Creative Commons 0
+  Water · 00068 | rodrigovaz, FS547720. Accessible at https://freesound.org/s/547720. | Creative Commons 0
+  Water · 00069 | chromakei, FS547892. Accessible at https://freesound.org/s/547892. | Creative Commons 0
+  Water · 00070 | Vanalosswen, FS548381. Accessible at https://freesound.org/s/548381. | Creative Commons 0
+  Water · 00071 | yezzy, FS548476. Accessible at https://freesound.org/s/548476. | Creative Commons 0
+  Water · 00072 | NBDTechDev, FS549929. Accessible at https://freesound.org/s/549929. | Creative Commons 0
+  Water · 00073 | chrov_, FS550756. Accessible at https://freesound.org/s/550756. | Creative Commons Attribution 3.0
+  Water · 00074 | Profispiesser, FS550930. Accessible at https://freesound.org/s/550930. | Creative Commons 0
+  Water · 00075 | Legnalegna55, FS551989. Accessible at https://freesound.org/s/551989. | Creative Commons 0
+  Water · 00076 | MPTSound, FS552457. Accessible at https://freesound.org/s/552457. | Creative Commons 0
+  Water · 00077 | SiriusParsec, FS552691. Accessible at https://freesound.org/s/552691. | Creative Commons 0
+  Water · 00078 | itinerantmonk108, FS553051. Accessible at https://freesound.org/s/553051. | Creative Commons 0
+  Water · 00079 | nickcase, FS553135. Accessible at https://freesound.org/s/553135. | Creative Commons 0
+  Water · 00080 | nickcase, FS553159. Accessible at https://freesound.org/s/553159. | Creative Commons 0
+  Water · 10001 | FrostCP, FS587000. Accessible at https://freesound.org/s/587000/. | Creative Commons 0
+  Water · 10002 | inchadney, FS587759. Accessible at https://freesound.org/s/587759/. | Creative Commons Attribution-NonCommercial 3.0
+  Water · 20001 | eee.dsplab, FS683016. Accessible at https://freesound.org/s/683016/. | Creative Commons Attribution 4.0
+  Water · 20002 | eee.dsplab, FS683020. Accessible at https://freesound.org/s/683020/. | Creative Commons Attribution 4.0
+  Water · 20003 | jakvera, FS684206. Accessible at https://freesound.org/s/684206/. | Creative Commons 0
+  Water · 20004 | itinerantmonk108, FS681653. Accessible at https://freesound.org/s/681653/. | Creative Commons 0
+  Water · 20005 | davilca, FS677228. Accessible at https://freesound.org/s/677228/. | Creative Commons 0
+  Water · 20006 | AugustSandberg, FS677722. Accessible at https://freesound.org/s/677722/. | Creative Commons 0
+  Water · 20007 | AugustSandberg, FS677723. Accessible at https://freesound.org/s/677723/. | Creative Commons 0
+  Water · 20008 | GirlWithSoundRecorder, FS680315. Accessible at https://freesound.org/s/680315/. | Creative Commons Attribution 4.0
+  Water · 20009 | Juno24, FS683330. Accessible at https://freesound.org/s/683330/. | Creative Commons 0
+  Water · 20010 | harrisonlace, FS611502. Accessible at https://freesound.org/s/611502/. | Creative Commons 0
+  Water · 20011 | Garuda1982, FS638070. Accessible at https://freesound.org/s/638070/. | Creative Commons Attribution 4.0
+  Water · 20012 | Jellytots_Julie, FS654601. Accessible at https://freesound.org/s/654601/. | Creative Commons Noncommercial 4.0
+  Water · 20013 | AbsynthFactory, FS656430. Accessible at https://freesound.org/s/656430/. | Creative Commons Attribution 4.0
+  Water · 20014 | Tom_Kaszuba, FS660252. Accessible at https://freesound.org/s/660252/. | Creative Commons 0
+  Water · 20015 | newlocknew, FS683711. Accessible at https://freesound.org/s/683711/. | Creative Commons Noncommercial 4.0
+  Water · 20016 | RCSound99, FS651211. Accessible at https://freesound.org/s/651211/. | Creative Commons 0
+  Water · 20017 | bruno.auzet, FS654444. Accessible at https://freesound.org/s/654444/. | Creative Commons 0
+  Water · 20018 | naturenotesuk, FS661806. Accessible at https://freesound.org/s/661806/. | Creative Commons Attribution 4.0
+  Water · 20019 | tim.kahn, FS667786. Accessible at https://freesound.org/s/667786/. | Creative Commons Attribution 4.0
+  Water · 20020 | naturenotesuk, FS670618. Accessible at https://freesound.org/s/670618/. | Creative Commons Attribution 4.0
+  Water · 20021 | Philip_Goddard, FS674074. Accessible at https://freesound.org/s/674074/. | Creative Commons Noncommercial 4.0
+  Water · 20022 | sparxx001, FS684383. Accessible at https://freesound.org/s/684383/. | Creative Commons 0
+  Water · 20023 | hmilleo, FS683707. Accessible at https://freesound.org/s/683707/. | Creative Commons 0
+  Water · 20024 | digimistic, FS684023. Accessible at https://freesound.org/s/684023/. | Creative Commons 0
+  Water · 20025 | DaniloSFX, FS672723. Accessible at https://freesound.org/s/672723/. | Creative Commons 0
+  Water · 20026 | Philip_Goddard, FS680842. Accessible at https://freesound.org/s/680842/. | Creative Commons Noncommercial 4.0
+  Water · 20027 | felix.blume, FS655507. Accessible at https://freesound.org/s/655507/. | Creative Commons 0
+  Water · 20028 | Alboinrexlangobardorum, FS673106. Accessible at https://freesound.org/s/673106/. | Creative Commons 0
+  Water · 20029 | craigsmith, FS675566. Accessible at https://freesound.org/s/675566/. | Creative Commons 0
+  Water · 20030 | IlMotografo, FS679106. Accessible at https://freesound.org/s/679106/. | Creative Commons 0
+  Water · 20031 | nicotep, FS683913. Accessible at https://freesound.org/s/683913/. | Creative Commons Attribution 4.0
+  Water · 20032 | eqavox, FS683949. Accessible at https://freesound.org/s/683949/. | Creative Commons 0
+  Wind · 00001 | daveincamas, FS62056. Accessible at https://freesound.org/s/62056. | Creative Commons Attribution 3.0
+  Wind · 00002 | Akacie, FS73714. Accessible at https://freesound.org/s/73714. | Creative Commons Attribution-NonCommercial 3.0
+  Wind · 00003 | Benboncan, FS84111. Accessible at https://freesound.org/s/84111. | Creative Commons Attribution 3.0
+  Wind · 00004 | inchadney, FS104875. Accessible at https://freesound.org/s/104875. | Creative Commons Attribution 3.0
+  Wind · 00005 | Glaneur de sons, FS104952. Accessible at https://freesound.org/s/104952. | Creative Commons Attribution 3.0
+  Wind · 00006 | klankbeeld, FS131032. Accessible at https://freesound.org/s/131032. | Creative Commons Attribution 3.0
+  Wind · 00007 | Bosk1, FS144083. Accessible at https://freesound.org/s/144083. | Creative Commons Attribution-NonCommercial 3.0
+  Wind · 00008 | kangaroovindaloo, FS180025. Accessible at https://freesound.org/s/180025. | Creative Commons Attribution 3.0
+  Wind · 00009 | mario1298, FS181255. Accessible at https://freesound.org/s/181255. | Creative Commons 0
+  Wind · 00010 | LanDub, FS182837. Accessible at https://freesound.org/s/182837. | Creative Commons 0
+  Wind · 00011 | juryduty, FS185070. Accessible at https://freesound.org/s/185070. | Creative Commons 0
+  Wind · 00012 | crooner, FS211820. Accessible at https://freesound.org/s/211820. | Creative Commons Attribution-NonCommercial 3.0
+  Wind · 00013 | Toivo161, FS242064. Accessible at https://freesound.org/s/242064. | Creative Commons Attribution 3.0
+  Wind · 00014 | spoonbender, FS244942. Accessible at https://freesound.org/s/244942. | Creative Commons Attribution 3.0
+  Wind · 00015 | ebanse, FS345681. Accessible at https://freesound.org/s/345681. | Creative Commons Attribution-NonCommercial 3.0
+  Wind · 00016 | StrangeAcoustics, FS346106. Accessible at https://freesound.org/s/346106. | Creative Commons Attribution 3.0
+  Wind · 00017 | squashy555, FS397947. Accessible at https://freesound.org/s/397947. | Creative Commons 0
+  Wind · 00018 | teadrinker, FS403051. Accessible at https://freesound.org/s/403051. | Creative Commons 0
+  Wind · 00019 | Jonathan Shaw (InspectorJ), FS405561. Accessible at https://freesound.org/s/405561. | Creative Commons Attribution 3.0
+  Wind · 00020 | Martin.Sadoux, FS422579. Accessible at https://freesound.org/s/422579. | Creative Commons 0
+  Wind · 00021 | klangfabrik, FS423800. Accessible at https://freesound.org/s/423800. | Creative Commons 0
+  Wind · 00022 | Martin.Sadoux, FS423914. Accessible at https://freesound.org/s/423914. | Creative Commons 0
+  Wind · 00023 | craigsmith, FS438857. Accessible at https://freesound.org/s/438857. | Creative Commons 0
+  Wind · 00024 | klankbeeld, FS441866. Accessible at https://freesound.org/s/441866. | Creative Commons Attribution 3.0
+  Wind · 00025 | chabbb, FS444852. Accessible at https://freesound.org/s/444852. | Creative Commons Attribution 3.0
+  Wind · 00026 | NomadApe, FS444921. Accessible at https://freesound.org/s/444921. | Creative Commons 0
+  Wind · 00027 | kyles, FS454373. Accessible at https://freesound.org/s/454373. | Creative Commons 0
+  Wind · 00028 | Stek59, FS457318. Accessible at https://freesound.org/s/457318. | Creative Commons 0
+  Wind · 00029 | rucisko, FS469280. Accessible at https://freesound.org/s/469280. | Creative Commons 0
+  Wind · 00030 | o_ciz, FS475448. Accessible at https://freesound.org/s/475448. | Creative Commons 0
+  Wind · 00031 | GregorQuendel, FS483076. Accessible at https://freesound.org/s/483076. | Creative Commons Attribution 3.0
+  Wind · 00032 | Jessica190091, FS491296. Accessible at https://freesound.org/s/491296. | Creative Commons Attribution-NonCommercial 3.0
+  Wind · 00033 | SoundShelves, FS533930. Accessible at https://freesound.org/s/533930. | Creative Commons Attribution 3.0
+  Wind · 00034 | tim.kahn, FS540192. Accessible at https://freesound.org/s/540192. | Creative Commons Attribution-NonCommercial 3.0
+  Wind · 00035 | SamuelGremaud, FS546526. Accessible at https://freesound.org/s/546526. | Creative Commons 0
+  Wind · 00036 | SamuelGremaud, FS546527. Accessible at https://freesound.org/s/546527. | Creative Commons 0
+  Wind · 00037 | Nox_Sound, FS546759. Accessible at https://freesound.org/s/546759. | Creative Commons 0
+  Wind · 00038 | klankbeeld, FS548173. Accessible at https://freesound.org/s/548173. | Creative Commons Attribution 3.0
+  Wind · 00039 | bruno.auzet, FS548235. Accessible at https://freesound.org/s/548235. | Creative Commons 0
+  Wind · 00040 | byjoshberry, FS551318. Accessible at https://freesound.org/s/551318. | Creative Commons 0
+  Wind · 10001 | klankbeeld, FS587205. Accessible at https://freesound.org/s/587205/. | Creative Commons Attribution 3.0
+  Wind · 20001 | krystameredith, FS421127. Accessible at https://freesound.org/s/421127/. | Creative Commons Attribution 4.0
+  Wind · 20002 | eee.dsplab, FS684545. Accessible at https://freesound.org/s/684545/. | Creative Commons Attribution 4.0
+  Wind · 20003 | mario1298, FS181250. Accessible at https://freesound.org/s/181250/. | Creative Commons 0
+  Wind · 20004 | mario1298, FS181252. Accessible at https://freesound.org/s/181252/. | Creative Commons 0
+  Wind · 20005 | golosiy, FS107934. Accessible at https://freesound.org/s/107934/. | Creative Commons Sampling+
+  Wind · 20006 | mario1298, FS181254. Accessible at https://freesound.org/s/181254/. | Creative Commons 0
+  Wind · 20007 | luffy, FS17292. Accessible at https://freesound.org/s/17292/. | Creative Commons Attribution 3.0
+  Wind · 20008 | Philip_Goddard, FS184175. Accessible at https://freesound.org/s/184175/. | Creative Commons Noncommercial 4.0
+  Wind · 20009 | Hephaestus, FS250138. Accessible at https://freesound.org/s/250138/. | Creative Commons 0
+  Wind · 20010 | tim.kahn, FS199517. Accessible at https://freesound.org/s/199517/. | Creative Commons Noncommercial 4.0
+  Wind · 20011 | fthgurdy, FS528944. Accessible at https://freesound.org/s/528944/. | Creative Commons 0
+  Wind · 20012 | bruno.auzet, FS670307. Accessible at https://freesound.org/s/670307/. | Creative Commons 0
+  Wind · 20013 | strangehorizon, FS683858. Accessible at https://freesound.org/s/683858/. | Creative Commons 0
+  Wind · 20014 | jakvera, FS684202. Accessible at https://freesound.org/s/684202/. | Creative Commons 0
+  Wind · 20015 | lgarrett, FS17136. Accessible at https://freesound.org/s/17136/. | Creative Commons Attribution 3.0
+  Wind · 20016 | MicrosoftSam, FS562433. Accessible at https://freesound.org/s/562433/. | Creative Commons Noncommercial 4.0
+
+Emo-Soundscapes
+---------------
+Source:      https://www.metacreation.net/projects/emo-soundscapes
+Cite:        Fan, J., Thorogood, M., & Pasquier, P. (2017). Emo-Soundscapes: A dataset for soundscape emotion recognition. ACII 2017. Excerpts of Freesound recordings; per-clip credits below.
+Licence:     Each clip keeps its Freesound licence (CC0, CC BY, CC BY-NC or Sampling+). All of these allow non-commercial sharing of excerpts with credit to the author.
+Coordinates: Crowdsourced pairwise rankings of all 1,213 clips (1,182 annotators), mapped by the authors onto -1..+1. Rank-based, so evenly spread by construction: relative, not absolute.
+
+  Cry · 101979 | Raffa Jaffa (Freesound 101979) | http://www.freesound.org/people/Raffa%20Jaffa/sounds/101979/
+  Footsteps · 102617 | terranovateater (Freesound 102617) | http://www.freesound.org/people/terranovateater/sounds/102617/
+  Eat · 106261 | Greencouch (Freesound 106261) | http://www.freesound.org/people/Greencouch/sounds/106261/
+  Shout · 106568 | Corsica_S (Freesound 106568) | http://www.freesound.org/people/Corsica_S/sounds/106568/
+  Singing · 113598 | Timbre (Freesound 113598) | http://www.freesound.org/people/Timbre/sounds/113598/
+  Footsteps · 115208 | Omar Alvarado (Freesound 115208) | http://www.freesound.org/people/Omar%20Alvarado/sounds/115208/
+  Footsteps · 117503 | DifferentSoundScapes (Freesound 117503) | http://www.freesound.org/people/DifferentSoundScapes/sounds/117503/
+  Walk · 118096 | digifishmusic (Freesound 118096) | http://www.freesound.org/people/digifishmusic/sounds/118096/
+  Singing · 125859 | xserra (Freesound 125859) | http://www.freesound.org/people/xserra/sounds/125859/
+  Laugh · 127590 | klankbeeld (Freesound 127590) | http://www.freesound.org/people/klankbeeld/sounds/127590/
+  Laughing · 128097 | Project_Trident (Freesound 128097) | http://www.freesound.org/people/Project_Trident/sounds/128097/
+  Walk · 128768 | Benbojangles (Freesound 128768) | http://www.freesound.org/people/Benbojangles/sounds/128768/
+  Walk · 129783 | aarom (Freesound 129783) | http://www.freesound.org/people/aarom/sounds/129783/
+  Laugh · 131402 | ecfike (Freesound 131402) | http://www.freesound.org/people/ecfike/sounds/131402/
+  Footsteps · 138091 | daboy291 (Freesound 138091) | http://www.freesound.org/people/daboy291/sounds/138091/
+  Singing · 140140 | xserra (Freesound 140140) | http://www.freesound.org/people/xserra/sounds/140140/
+  Laugh · 143651 | jgeralyn (Freesound 143651) | http://www.freesound.org/people/jgeralyn/sounds/143651/
+  Walk · 144024 | SaraEWeimer (Freesound 144024) | http://www.freesound.org/people/SaraEWeimer/sounds/144024/
+  Laugh · 147543 | nickrave (Freesound 147543) | http://www.freesound.org/people/nickrave/sounds/147543/
+  Footsteps · 147643 | clt008 (Freesound 147643) | http://www.freesound.org/people/clt008/sounds/147643/
+  Singing · 148009 | hemogREC (Freesound 148009) | http://www.freesound.org/people/hemogREC/sounds/148009/
+  Mumble · 150850 | Jebes21 (Freesound 150850) | https://www.freesound.org/people/Jebes21/sounds/150850/
+  Singing · 151060 | antigonia (Freesound 151060) | http://www.freesound.org/people/antigonia/sounds/151060/
+  Shout · 156040 | bmoreno (Freesound 156040) | http://www.freesound.org/people/bmoreno/sounds/156040/
+  Footsteps · 156847 | rjbrown85 (Freesound 156847) | http://www.freesound.org/people/rjbrown85/sounds/156847/
+  Footsteps · 161417 | CosmicEmbers (Freesound 161417) | http://www.freesound.org/people/CosmicEmbers/sounds/161417/
+  Singing · 162024 | xserra (Freesound 162024) | http://www.freesound.org/people/xserra/sounds/162024/
+  Walk · 162620 | nathanaelsams (Freesound 162620) | http://www.freesound.org/people/nathanaelsams/sounds/162620/
+  Laugh · 163496 | eli123 (Freesound 163496) | http://www.freesound.org/people/eli123/sounds/163496/
+  Walk · 166175 | vflefevre (Freesound 166175) | http://www.freesound.org/people/vflefevre/sounds/166175/
+  Laugh · 171120 | ondrosik (Freesound 171120) | http://www.freesound.org/people/ondrosik/sounds/171120/
+  Burp · 172230 | unfa (Freesound 172230) | http://www.freesound.org/people/unfa/sounds/172230/
+  Walk · 178989 | jmdh (Freesound 178989) | http://www.freesound.org/people/jmdh/sounds/178989/
+  Singing · 179928 | AlucardsBride (Freesound 179928) | http://www.freesound.org/people/AlucardsBride/sounds/179928/
+  Sneeze · 180043 | unfa (Freesound 180043) | http://www.freesound.org/people/unfa/sounds/180043/
+  Laugh · 181599 | JulieBaka (Freesound 181599) | http://www.freesound.org/people/JulieBaka/sounds/181599/
+  Drink · 187351 | baidonovan (Freesound 187351) | http://www.freesound.org/people/baidonovan/sounds/187351/
+  Singing · 191378 | JordiF (Freesound 191378) | http://www.freesound.org/people/JordiF/sounds/191378/
+  Laugh · 193794 | Zabuhailo (Freesound 193794) | http://www.freesound.org/people/Zabuhailo/sounds/193794/
+  Footsteps · 195053 | UnderlinedDesigns (Freesound 195053) | http://www.freesound.org/people/UnderlinedDesigns/sounds/195053/
+  Singing · 19520 | Bram (Freesound 19520) | http://www.freesound.org/people/Bram/sounds/19520/
+  Singing · 197144 | everythingsounds (Freesound 197144) | http://www.freesound.org/people/everythingsounds/sounds/197144/
+  Cry · 198411 | klankbeeld (Freesound 198411) | http://www.freesound.org/people/klankbeeld/sounds/198411/
+  Scream · 202335 | felix.blume (Freesound 202335) | http://www.freesound.org/people/felix.blume/sounds/202335/
+  Walk · 20292 | Pooleside (Freesound 20292) | http://www.freesound.org/people/Pooleside/sounds/20292/
+  Singing · 206021 | klankbeeld (Freesound 206021) | http://www.freesound.org/people/klankbeeld/sounds/206021/
+  Scream · 214147 | felix.blume (Freesound 214147) | http://www.freesound.org/people/felix.blume/sounds/214147/
+  Walk · 22388 | Charel Sytze (Freesound 22388) | http://www.freesound.org/people/Charel%20Sytze/sounds/22388/
+  Eat · 231267 | FrogPrince79 (Freesound 231267) | http://www.freesound.org/people/FrogPrince79/sounds/231267/
+  Footsteps · 23312 | valenti (Freesound 23312) | http://www.freesound.org/people/valenti/sounds/23312/
+  Eat · 234161 | delphidebrain (Freesound 234161) | http://www.freesound.org/people/delphidebrain/sounds/234161/
+  Scream · 238549 | felix.blume (Freesound 238549) | http://www.freesound.org/people/felix.blume/sounds/238549/
+  Applause · 24011 | dwsolo (Freesound 24011) | http://www.freesound.org/people/dwsolo/sounds/24011/
+  Laugh · 240324 | squashy555 (Freesound 240324) | http://www.freesound.org/people/squashy555/sounds/240324/
+  Laughing · 242932 | OBXJohn (Freesound 242932) | https://www.freesound.org/people/OBXJohn/sounds/242932/
+  Footsteps · 257644 | speedygonzo (Freesound 257644) | http://www.freesound.org/people/speedygonzo/sounds/257644/
+  Laugh · 259612 | Stevious42 (Freesound 259612) | http://www.freesound.org/people/Stevious42/sounds/259612/
+  Speak · 261557 | CelestialElf (Freesound 261557) | http://www.freesound.org/people/CelestialElf/sounds/261557/
+  Drink · 261596 | kwahmah_02 (Freesound 261596) | http://www.freesound.org/people/kwahmah_02/sounds/261596/
+  Shout · 262168 | wjoojoo (Freesound 262168) | http://www.freesound.org/people/wjoojoo/sounds/262168/
+  Eat · 267563 | BalancedEnergy10 (Freesound 267563) | http://www.freesound.org/people/BalancedEnergy10/sounds/267563/
+  Eat · 270457 | ekdhs0115 (Freesound 270457) | http://www.freesound.org/people/ekdhs0115/sounds/270457/
+  Footsteps · 271910 | sturmankin (Freesound 271910) | http://www.freesound.org/people/sturmankin/sounds/271910/
+  Footsteps · 272275 | sturmankin (Freesound 272275) | http://www.freesound.org/people/sturmankin/sounds/272275/
+  Scream · 31532 | Erdie (Freesound 31532) | http://www.freesound.org/people/Erdie/sounds/31532/
+  Laugh · 31781 | Slanesh (Freesound 31781) | http://www.freesound.org/people/Slanesh/sounds/31781/
+  Singing · 318638 | boobaloo (Freesound 318638) | http://www.freesound.org/people/boobaloo/sounds/318638/
+  Walk · 31962 | HerbertBoland (Freesound 31962) | http://www.freesound.org/people/HerbertBoland/sounds/31962/
+  Footsteps · 334691 | artesmediales (Freesound 334691) | http://www.freesound.org/people/artesmediales/sounds/334691/
+  Speak · 339271 | 11linda (Freesound 339271) | http://www.freesound.org/people/11linda/sounds/339271/
+  Speak · 350728 | AlienXXX (Freesound 350728) | http://www.freesound.org/people/AlienXXX/sounds/350728/
+  Speak · 39932 | dobroide (Freesound 39932) | http://www.freesound.org/people/dobroide/sounds/39932/
+  Footsteps · 41980 | ERH (Freesound 41980) | http://www.freesound.org/people/ERH/sounds/41980/
+  Applause · 44311 | obasound (Freesound 44311) | http://www.freesound.org/people/obasound/sounds/44311/
+  Walk · 44713 | Halleck (Freesound 44713) | http://www.freesound.org/people/Halleck/sounds/44713/
+  Singing · 50865 | Erdie (Freesound 50865) | http://www.freesound.org/people/Erdie/sounds/50865/
+  Walk · 52285 | trip2000 (Freesound 52285) | http://www.freesound.org/people/trip2000/sounds/52285/
+  Laugh · 55495 | LG (Freesound 55495) | http://www.freesound.org/people/LG/sounds/55495/
+  Footsteps · 56873 | koenbram (Freesound 56873) | http://www.freesound.org/people/koenbram/sounds/56873/
+  Walk · 58407 | sagetyrtle (Freesound 58407) | http://www.freesound.org/people/sagetyrtle/sounds/58407/
+  Applause · 60482 | ariat (Freesound 60482) | http://www.freesound.org/people/ariat/sounds/60482/
+  Walk · 66607 | susoooo (Freesound 66607) | http://www.freesound.org/people/susoooo/sounds/66607/
+  Laugh · 69146 | milton. (Freesound 69146) | http://www.freesound.org/people/milton./sounds/69146/
+  Footsteps · 73108 | LG (Freesound 73108) | http://www.freesound.org/people/LG/sounds/73108/
+  Walk · 75265 | skiersailor (Freesound 75265) | http://www.freesound.org/people/skiersailor/sounds/75265/
+  Speak · 76849 | Corsica_S (Freesound 76849) | http://www.freesound.org/people/Corsica_S/sounds/76849/
+  Footsteps · 77372 | Ephemeral_Rift (Freesound 77372) | http://www.freesound.org/people/Ephemeral_Rift/sounds/77372/
+  Singing · 80280 | dosa1 (Freesound 80280) | http://www.freesound.org/people/dosa1/sounds/80280/
+  Scream · 80688 | 1demidegt2 (Freesound 80688) | http://www.freesound.org/people/1demidegt2/sounds/80688/
+  Applause · 82703 | Benboncan (Freesound 82703) | http://www.freesound.org/people/Benboncan/sounds/82703/
+  Walk · 83360 | bsumusictech (Freesound 83360) | http://www.freesound.org/people/bsumusictech/sounds/83360/
+  Singing · 163146 | ceo76 (Freesound 163146) | http://www.freesound.org/people/ceo76/sounds/163146/
+  Footsteps · 164373 | bmoreno (Freesound 164373) | http://www.freesound.org/people/bmoreno/sounds/164373/
+  Walk · 178333 | sergeeo (Freesound 178333) | http://www.freesound.org/people/sergeeo/sounds/178333/
+  Drink · 195718 | Zabuhailo (Freesound 195718) | http://www.freesound.org/people/Zabuhailo/sounds/195718/
+  Applause · 207728 | unfa (Freesound 207728) | http://www.freesound.org/people/unfa/sounds/207728/
+  Eat · 249742 | samvanzoest (Freesound 249742) | http://www.freesound.org/people/samvanzoest/sounds/249742/
+  Sneeze · 44199 | ERH (Freesound 44199) | http://www.freesound.org/people/ERH/sounds/44199/
+  Shout · 51792 | kyles (Freesound 51792) | http://www.freesound.org/people/kyles/sounds/51792/
+  Walk · 54889 | digifishmusic (Freesound 54889) | http://www.freesound.org/people/digifishmusic/sounds/54889/
+  Whistle · 100046 | soundbytez (Freesound 100046) | http://www.freesound.org/people/soundbytez/sounds/100046/
+  Clock · 101224 | Timbre (Freesound 101224) | http://www.freesound.org/people/Timbre/sounds/101224/
+  Siren · 104463 | dkmedic (Freesound 104463) | http://www.freesound.org/people/dkmedic/sounds/104463/
+  Clock · 107353 | ermfilm (Freesound 107353) | http://www.freesound.org/people/ermfilm/sounds/107353/
+  Ring · 110857 | tagigobaso (Freesound 110857) | http://www.freesound.org/people/tagigobaso/sounds/110857/
+  Firework · 113532 | victormalloy (Freesound 113532) | http://www.freesound.org/people/victormalloy/sounds/113532/
+  Bell · 114474 | lex1975 (Freesound 114474) | http://www.freesound.org/people/lex1975/sounds/114474/
+  Bell · 116533 | RytmenPinnen (Freesound 116533) | http://www.freesound.org/people/RytmenPinnen/sounds/116533/
+  Clock · 117262 | felix.blume (Freesound 117262) | http://www.freesound.org/people/felix.blume/sounds/117262/
+  Ring · 11739 | xyzr_kx (Freesound 11739) | http://www.freesound.org/people/xyzr_kx/sounds/11739/
+  Alarm · 118517 | turonkusu (Freesound 118517) | http://www.freesound.org/people/turonkusu/sounds/118517/
+  Alert · 121532 | thaighaudio (Freesound 121532) | https://www.freesound.org/people/thaighaudio/sounds/121532/
+  Bell · 127352 | dobroide (Freesound 127352) | http://www.freesound.org/people/dobroide/sounds/127352/
+  Clock · 127712 | thomasevd (Freesound 127712) | http://www.freesound.org/people/thomasevd/sounds/127712/
+  Siren · 128459 | saphe (Freesound 128459) | http://www.freesound.org/people/saphe/sounds/128459/
+  Firework · 130332 | Sam80 (Freesound 130332) | http://www.freesound.org/people/Sam80/sounds/130332/
+  Whistle · 131165 | bretbernhoft (Freesound 131165) | http://www.freesound.org/people/bretbernhoft/sounds/131165/
+  Whistle · 131576 | mystified13 (Freesound 131576) | http://www.freesound.org/people/mystified13/sounds/131576/
+  Clock · 13712 | acclivity (Freesound 13712) | http://www.freesound.org/people/acclivity/sounds/13712/
+  Whistle · 140043 | Tewkesound (Freesound 140043) | http://www.freesound.org/people/Tewkesound/sounds/140043/
+  Firework · 142022 | HerbertBoland (Freesound 142022) | http://www.freesound.org/people/HerbertBoland/sounds/142022/
+  Firework · 143901 | qubodup (Freesound 143901) | http://www.freesound.org/people/qubodup/sounds/143901/
+  Bell · 143963 | reinsamba (Freesound 143963) | http://www.freesound.org/people/reinsamba/sounds/143963/
+  Clock · 144897 | Setuniman (Freesound 144897) | http://www.freesound.org/people/Setuniman/sounds/144897/
+  Firework · 15000 | Mr Sensible (Freesound 15000) | http://www.freesound.org/people/Mr%20Sensible/sounds/15000/
+  Ring · 152501 | thecityrings (Freesound 152501) | http://www.freesound.org/people/thecityrings/sounds/152501/
+  Bell · 15361 | hanstimm (Freesound 15361) | http://www.freesound.org/people/hanstimm/sounds/15361/
+  Bell · 158498 | HBSA (Freesound 158498) | http://www.freesound.org/people/HBSA/sounds/158498/
+  Firework · 158727 | markedit (Freesound 158727) | http://www.freesound.org/people/markedit/sounds/158727/
+  Siren · 164053 | sazman (Freesound 164053) | http://www.freesound.org/people/sazman/sounds/164053/
+  Whistle · 167027 | iut_Paris8 (Freesound 167027) | http://www.freesound.org/people/iut_Paris8/sounds/167027/
+  Firework · 172884 | ShotgunPicker (Freesound 172884) | http://www.freesound.org/people/ShotgunPicker/sounds/172884/
+  Whistle · 173978 | hoersturz (Freesound 173978) | http://www.freesound.org/people/hoersturz/sounds/173978/
+  Bell · 17852 | patchen (Freesound 17852) | http://www.freesound.org/people/patchen/sounds/17852/
+  Siren · 179606 | RTB45 (Freesound 179606) | http://www.freesound.org/people/RTB45/sounds/179606/
+  Whistle · 181718 | keweldog (Freesound 181718) | http://www.freesound.org/people/keweldog/sounds/181718/
+  Clock · 181813 | keweldog (Freesound 181813) | http://www.freesound.org/people/keweldog/sounds/181813/
+  Ring · 185867 | thecityrings (Freesound 185867) | http://www.freesound.org/people/thecityrings/sounds/185867/
+  Bell · 18761 | acclivity (Freesound 18761) | http://www.freesound.org/people/acclivity/sounds/18761/
+  Bell · 19167 | Ionizing (Freesound 19167) | http://www.freesound.org/people/Ionizing/sounds/19167/
+  Bell · 19369 | dobroide (Freesound 19369) | http://www.freesound.org/people/dobroide/sounds/19369/
+  Ring · 200290 | vumseplutten1709 (Freesound 200290) | http://www.freesound.org/people/vumseplutten1709/sounds/200290/
+  Ring · 208801 | thecityrings (Freesound 208801) | http://www.freesound.org/people/thecityrings/sounds/208801/
+  Siren · 213920 | klankbeeld (Freesound 213920) | http://www.freesound.org/people/klankbeeld/sounds/213920/
+  Ring · 218284 | thecityrings (Freesound 218284) | http://www.freesound.org/people/thecityrings/sounds/218284/
+  Alarm · 22876 | Corsica_S (Freesound 22876) | http://www.freesound.org/people/Corsica_S/sounds/22876/
+  Ring · 237867 | thecityrings (Freesound 237867) | http://www.freesound.org/people/thecityrings/sounds/237867/
+  Alarm · 241912 | alexbird (Freesound 241912) | http://www.freesound.org/people/alexbird/sounds/241912/
+  Siren · 27485 | falconbeard (Freesound 27485) | http://www.freesound.org/people/falconbeard/sounds/27485/
+  Clock · 30166 | UncleSigmund (Freesound 30166) | http://www.freesound.org/people/UncleSigmund/sounds/30166/
+  Alarm · 33459 | pempi (Freesound 33459) | http://www.freesound.org/people/pempi/sounds/33459/
+  Ring · 335975 | newagesoup (Freesound 335975) | http://www.freesound.org/people/newagesoup/sounds/335975/
+  Alarm · 34280 | hello_flowers (Freesound 34280) | http://www.freesound.org/people/hello_flowers/sounds/34280/
+  Bell · 36047 | dobroide (Freesound 36047) | http://www.freesound.org/people/dobroide/sounds/36047/
+  Whistle · 36181 | Bansemer (Freesound 36181) | http://www.freesound.org/people/Bansemer/sounds/36181/
+  Clock · 38760 | klankschap (Freesound 38760) | http://www.freesound.org/people/klankschap/sounds/38760/
+  Siren · 40722 | nannygrimshaw (Freesound 40722) | http://www.freesound.org/people/nannygrimshaw/sounds/40722/
+  Siren · 46092 | IFartInUrGeneralDirection (Freesound 46092) | http://www.freesound.org/people/IFartInUrGeneralDirection/sounds/46092/
+  Clock · 47098 | Noise Cuisine (Freesound 47098) | http://www.freesound.org/people/Noise%20Cuisine/sounds/47098/
+  Bell · 48030 | moca (Freesound 48030) | http://www.freesound.org/people/moca/sounds/48030/
+  Firework · 51403 | ingsey101 (Freesound 51403) | http://www.freesound.org/people/ingsey101/sounds/51403/
+  Alarm · 55031 | suonidigenova (Freesound 55031) | http://www.freesound.org/people/suonidigenova/sounds/55031/
+  Ring · 55583 | reinsamba (Freesound 55583) | http://www.freesound.org/people/reinsamba/sounds/55583/
+  Bell · 56874 | LG (Freesound 56874) | http://www.freesound.org/people/LG/sounds/56874/
+  Ring · 57787 | uair01 (Freesound 57787) | http://www.freesound.org/people/uair01/sounds/57787/
+  Siren · 60741 | J.Zazvurek (Freesound 60741) | http://www.freesound.org/people/J.Zazvurek/sounds/60741/
+  Ring · 60755 | morgantj (Freesound 60755) | http://www.freesound.org/people/morgantj/sounds/60755/
+  Alert · 61573 | sazman (Freesound 61573) | http://www.freesound.org/people/sazman/sounds/61573/
+  Clock · 62579 | lonemonk (Freesound 62579) | http://www.freesound.org/people/lonemonk/sounds/62579/
+  Siren · 65471 | dobroide (Freesound 65471) | http://www.freesound.org/people/dobroide/sounds/65471/
+  Firework · 65735 | Franq (Freesound 65735) | http://www.freesound.org/people/Franq/sounds/65735/
+  Bell · 65745 | dobroide (Freesound 65745) | http://www.freesound.org/people/dobroide/sounds/65745/
+  Bell · 66332 | Redrabbit (Freesound 66332) | http://www.freesound.org/people/Redrabbit/sounds/66332/
+  Whistle · 68634 | Rocktopus (Freesound 68634) | http://www.freesound.org/people/Rocktopus/sounds/68634/
+  Whistle · 69954 | eraylik (Freesound 69954) | http://www.freesound.org/people/eraylik/sounds/69954/
+  Clock · 719 | elmomo (Freesound 719) | http://www.freesound.org/people/elmomo/sounds/719/
+  Bell · 72534 | rbrtsch (Freesound 72534) | http://www.freesound.org/people/rbrtsch/sounds/72534/
+  Bell · 75321 | nemoDaedalus (Freesound 75321) | http://www.freesound.org/people/nemoDaedalus/sounds/75321/
+  Alarm · 78564 | joedeshon (Freesound 78564) | http://www.freesound.org/people/joedeshon/sounds/78564/
+  Bell · 79438 | Kyster (Freesound 79438) | http://www.freesound.org/people/Kyster/sounds/79438/
+  Alarm · 87132 | jobro (Freesound 87132) | http://www.freesound.org/people/jobro/sounds/87132/
+  Bell · 87306 | cormi (Freesound 87306) | http://www.freesound.org/people/cormi/sounds/87306/
+  Alarm · 91328 | miastodzwiekow (Freesound 91328) | http://www.freesound.org/people/miastodzwiekow/sounds/91328/
+  Clock · 94016 | Spleencast (Freesound 94016) | http://www.freesound.org/people/Spleencast/sounds/94016/
+  Whistle · 94772 | tiredoldwhiteman (Freesound 94772) | http://www.freesound.org/people/tiredoldwhiteman/sounds/94772/
+  Bell · 103136 | Corsica_S (Freesound 103136) | http://www.freesound.org/people/Corsica_S/sounds/103136/
+  Ring · 12056 | medialint (Freesound 12056) | http://www.freesound.org/people/medialint/sounds/12056/
+  Bell · 149925 | miastodzwiekow (Freesound 149925) | http://www.freesound.org/people/miastodzwiekow/sounds/149925/
+  Firework · 161828 | xserra (Freesound 161828) | http://www.freesound.org/people/xserra/sounds/161828/
+  Firework · 46064 | HerbertBoland (Freesound 46064) | http://www.freesound.org/people/HerbertBoland/sounds/46064/
+  Bell · 54747 | Satoration (Freesound 54747) | http://www.freesound.org/people/Satoration/sounds/54747/
+  Alarm · 58615 | alvarojmarquez (Freesound 58615) | http://www.freesound.org/people/alvarojmarquez/sounds/58615/
+  Ring · 243958 | FunnyMan374 (Freesound 243958) | http://www.freesound.org/people/FunnyMan374/sounds/243958/
+  Firework · 62620 | soundplusdesign (Freesound 62620) | http://www.freesound.org/people/soundplusdesign/sounds/62620/
+  Firework · 100127 | NoiseCollector (Freesound 100127) | http://www.freesound.org/people/NoiseCollector/sounds/100127/
+  Clock · 122772 | tagirov (Freesound 122772) | http://www.freesound.org/people/tagirov/sounds/122772/
+  Bell · 14899 | acclivity (Freesound 14899) | http://www.freesound.org/people/acclivity/sounds/14899/
+  Whistle · 21041 | wildsolution (Freesound 21041) | http://www.freesound.org/people/wildsolution/sounds/21041/
+  Whistle · 59071 | laurent (Freesound 59071) | http://www.freesound.org/people/laurent/sounds/59071/
+  Whistle · 262210 | YleArkisto (Freesound 262210) | http://www.freesound.org/people/YleArkisto/sounds/262210/
+  Machine · 109152 | rfhache (Freesound 109152) | http://www.freesound.org/people/rfhache/sounds/109152/
+  Machine · 111665 | plopkot (Freesound 111665) | http://www.freesound.org/people/plopkot/sounds/111665/
+  Machine · 112812 | Julien Matthey (Freesound 112812) | http://www.freesound.org/people/Julien%20Matthey/sounds/112812/
+  Machine · 114288 | plingativator (Freesound 114288) | http://www.freesound.org/people/plingativator/sounds/114288/
+  Metal · 11598 | samplecat (Freesound 11598) | http://www.freesound.org/people/samplecat/sounds/11598/
+  Metal · 120385 | melack (Freesound 120385) | http://www.freesound.org/people/melack/sounds/120385/
+  Machine · 132592 | hjwaters (Freesound 132592) | http://www.freesound.org/people/hjwaters/sounds/132592/
+  Machine · 134783 | Setuniman (Freesound 134783) | http://www.freesound.org/people/Setuniman/sounds/134783/
+  Machine · 134922 | Syphon64 (Freesound 134922) | http://www.freesound.org/people/Syphon64/sounds/134922/
+  Machine · 145013 | Zabuhailo (Freesound 145013) | http://www.freesound.org/people/Zabuhailo/sounds/145013/
+  Metal · 160545 | KeyKrusher (Freesound 160545) | http://www.freesound.org/people/KeyKrusher/sounds/160545/
+  Metal · 160746 | kitefishlabs (Freesound 160746) | http://www.freesound.org/people/kitefishlabs/sounds/160746/
+  Metal · 165696 | pishpirika (Freesound 165696) | http://www.freesound.org/people/pishpirika/sounds/165696/
+  Machine · 166635 | Klerrp (Freesound 166635) | http://www.freesound.org/people/Klerrp/sounds/166635/
+  Metal · 167898 | decembered (Freesound 167898) | http://www.freesound.org/people/decembered/sounds/167898/
+  Machine · 169167 | JoniHeinonen (Freesound 169167) | http://www.freesound.org/people/JoniHeinonen/sounds/169167/
+  Machine · 170125 | lazr2012 (Freesound 170125) | http://www.freesound.org/people/lazr2012/sounds/170125/
+  Metal · 170240 | LuttoAudio (Freesound 170240) | http://www.freesound.org/people/LuttoAudio/sounds/170240/
+  Metal · 170404 | Philip Goddard (Freesound 170404) | http://www.freesound.org/people/Philip%20Goddard/sounds/170404/
+  Metal · 170868 | unfa (Freesound 170868) | http://www.freesound.org/people/unfa/sounds/170868/
+  Machine · 171951 | x_25 (Freesound 171951) | http://www.freesound.org/people/x_25/sounds/171951/
+  Machine · 17498 | Stomp (Freesound 17498) | http://www.freesound.org/people/Stomp/sounds/17498/
+  Machine · 17612 | cfork (Freesound 17612) | http://www.freesound.org/people/cfork/sounds/17612/
+  Metal · 17742 | Krisboruff (Freesound 17742) | http://www.freesound.org/people/Krisboruff/sounds/17742/
+  Machine · 1784 | nicStage (Freesound 1784) | http://www.freesound.org/people/nicStage/sounds/1784/
+  Machine · 180502 | Sclolex (Freesound 180502) | http://www.freesound.org/people/Sclolex/sounds/180502/
+  Machine · 18457 | dobroide (Freesound 18457) | http://www.freesound.org/people/dobroide/sounds/18457/
+  Machine · 188150 | gurkboll (Freesound 188150) | http://www.freesound.org/people/gurkboll/sounds/188150/
+  Machine · 18867 | Stomp (Freesound 18867) | http://www.freesound.org/people/Stomp/sounds/18867/
+  Metal · 18957 | Roil Noise (Freesound 18957) | http://www.freesound.org/people/Roil%20Noise/sounds/18957/
+  Metal · 198357 | Corsica_S (Freesound 198357) | http://www.freesound.org/people/Corsica_S/sounds/198357/
+  Machine · 201176 | phonoflora (Freesound 201176) | http://www.freesound.org/people/phonoflora/sounds/201176/
+  Machine · 204001 | UKEPHT (Freesound 204001) | http://www.freesound.org/people/UKEPHT/sounds/204001/
+  Machine · 204488 | gthall (Freesound 204488) | http://www.freesound.org/people/gthall/sounds/204488/
+  Machine · 209297 | sonsdebarcelona (Freesound 209297) | http://www.freesound.org/people/sonsdebarcelona/sounds/209297/
+  Metal · 21066 | elonen (Freesound 21066) | http://www.freesound.org/people/elonen/sounds/21066/
+  Machine · 221922 | peridactyloptrix (Freesound 221922) | http://www.freesound.org/people/peridactyloptrix/sounds/221922/
+  Machine · 223070 | luckylittleraven (Freesound 223070) | http://www.freesound.org/people/luckylittleraven/sounds/223070/
+  Machine · 231528 | Hitrison (Freesound 231528) | http://www.freesound.org/people/Hitrison/sounds/231528/
+  Machine · 233222 | polanko (Freesound 233222) | http://www.freesound.org/people/polanko/sounds/233222/
+  Metal · 234008 | crashoverride61088 (Freesound 234008) | http://www.freesound.org/people/crashoverride61088/sounds/234008/
+  Metal · 2356 | Andrew Duke (Freesound 2356) | http://www.freesound.org/people/Andrew%20Duke/sounds/2356/
+  Machine · 237743 | dankopp (Freesound 237743) | http://www.freesound.org/people/dankopp/sounds/237743/
+  Machine · 238156 | jimsim (Freesound 238156) | http://www.freesound.org/people/jimsim/sounds/238156/
+  Machine · 239200 | hubertmichel (Freesound 239200) | http://www.freesound.org/people/hubertmichel/sounds/239200/
+  Metal · 239939 | GeronimoGeronimo (Freesound 239939) | http://www.freesound.org/people/GeronimoGeronimo/sounds/239939/
+  Machine · 244364 | soundman516 (Freesound 244364) | http://www.freesound.org/people/soundman516/sounds/244364/
+  Metal · 244820 | JarredGibb (Freesound 244820) | http://www.freesound.org/people/JarredGibb/sounds/244820/
+  Machine · 24671 | patchen (Freesound 24671) | http://www.freesound.org/people/patchen/sounds/24671/
+  Metal · 256874 | klankbeeld (Freesound 256874) | http://www.freesound.org/people/klankbeeld/sounds/256874/
+  Machine · 261164 | VlatkoBlazek (Freesound 261164) | http://www.freesound.org/people/VlatkoBlazek/sounds/261164/
+  Machine · 262574 | Trautwein (Freesound 262574) | http://www.freesound.org/people/Trautwein/sounds/262574/
+  Machine · 262587 | OllieOllie (Freesound 262587) | http://www.freesound.org/people/OllieOllie/sounds/262587/
+  Machine · 264313 | olliehahn12 (Freesound 264313) | http://www.freesound.org/people/olliehahn12/sounds/264313/
+  Machine · 274257 | kwahmah_02 (Freesound 274257) | http://www.freesound.org/people/kwahmah_02/sounds/274257/
+  Metal · 28218 | neonaeon (Freesound 28218) | http://www.freesound.org/people/neonaeon/sounds/28218/
+  Machine · 29856 | cognito perceptu (Freesound 29856) | http://www.freesound.org/people/cognito%20perceptu/sounds/29856/
+  Machine · 30296 | looppool (Freesound 30296) | http://www.freesound.org/people/looppool/sounds/30296/
+  Metal · 30386 | UncleSigmund (Freesound 30386) | http://www.freesound.org/people/UncleSigmund/sounds/30386/
+  Machine · 318619 | matucha (Freesound 318619) | http://www.freesound.org/people/matucha/sounds/318619/
+  Metal · 325722 | 15050_Francois (Freesound 325722) | http://www.freesound.org/people/15050_Francois/sounds/325722/
+  Metal · 326631 | Bee09 (Freesound 326631) | http://www.freesound.org/people/Bee09/sounds/326631/
+  Metal · 328750 | aerror (Freesound 328750) | http://www.freesound.org/people/aerror/sounds/328750/
+  Machine · 329977 | jrosin (Freesound 329977) | http://www.freesound.org/people/jrosin/sounds/329977/
+  Metal · 335535 | podenecromaniac (Freesound 335535) | http://www.freesound.org/people/podenecromaniac/sounds/335535/
+  Machine · 337096 | ivolipa (Freesound 337096) | http://www.freesound.org/people/ivolipa/sounds/337096/
+  Metal · 348658 | klankbeeld (Freesound 348658) | http://www.freesound.org/people/klankbeeld/sounds/348658/
+  Machine · 47044 | lonemonk (Freesound 47044) | http://www.freesound.org/people/lonemonk/sounds/47044/
+  Machine · 50412 | ReWired (Freesound 50412) | http://www.freesound.org/people/ReWired/sounds/50412/
+  Machine · 50608 | ingsey101 (Freesound 50608) | http://www.freesound.org/people/ingsey101/sounds/50608/
+  Metal · 53482 | ERH (Freesound 53482) | http://www.freesound.org/people/ERH/sounds/53482/
+  Machine · 62704 | hanstimm (Freesound 62704) | http://www.freesound.org/people/hanstimm/sounds/62704/
+  Machine · 6572 | Jovica (Freesound 6572) | http://www.freesound.org/people/Jovica/sounds/6572/
+  Machine · 73524 | zolopher (Freesound 73524) | http://www.freesound.org/people/zolopher/sounds/73524/
+  Metal · 76977 | digitopia (Freesound 76977) | http://www.freesound.org/people/digitopia/sounds/76977/
+  Metal · 80158 | lsprice (Freesound 80158) | http://www.freesound.org/people/lsprice/sounds/80158/
+  Machine · 81831 | sarana (Freesound 81831) | http://www.freesound.org/people/sarana/sounds/81831/
+  Machine · 85463 | JasonElrod (Freesound 85463) | http://www.freesound.org/people/JasonElrod/sounds/85463/
+  Machine · 86253 | jakobhandersen (Freesound 86253) | http://www.freesound.org/people/jakobhandersen/sounds/86253/
+  Machine · 87169 | RytmenPinnen (Freesound 87169) | http://www.freesound.org/people/RytmenPinnen/sounds/87169/
+  Machine · 94285 | higginsdj (Freesound 94285) | http://www.freesound.org/people/higginsdj/sounds/94285/
+  Metal · 98942 | Tomlija (Freesound 98942) | http://www.freesound.org/people/Tomlija/sounds/98942/
+  Metal · 171033 | jakobthiesen (Freesound 171033) | http://www.freesound.org/people/jakobthiesen/sounds/171033/
+  Machine · 91237 | Benboncan (Freesound 91237) | http://www.freesound.org/people/Benboncan/sounds/91237/
+  Machine · 135063 | mzui (Freesound 135063) | http://www.freesound.org/people/mzui/sounds/135063/
+  Metal · 149273 | Timbre (Freesound 149273) | http://www.freesound.org/people/Timbre/sounds/149273/
+  Machine · 155610 | StaryTlustyKocour (Freesound 155610) | http://www.freesound.org/people/StaryTlustyKocour/sounds/155610/
+  Metal · 155859 | RutgerMuller (Freesound 155859) | http://www.freesound.org/people/RutgerMuller/sounds/155859/
+  Machine · 163683 | MrAuralization (Freesound 163683) | http://www.freesound.org/people/MrAuralization/sounds/163683/
+  Machine · 168873 | dkcu (Freesound 168873) | http://www.freesound.org/people/dkcu/sounds/168873/
+  Metal · 177779 | dheming (Freesound 177779) | http://www.freesound.org/people/dheming/sounds/177779/
+  Metal · 233732 | toiletrolltube (Freesound 233732) | http://www.freesound.org/people/toiletrolltube/sounds/233732/
+  Metal · 76132 | cornodrig (Freesound 76132) | http://www.freesound.org/people/cornodrig/sounds/76132/
+  Machine · 87563 | Benboncan (Freesound 87563) | http://www.freesound.org/people/Benboncan/sounds/87563/
+  Metal · 264850 | Torror (Freesound 264850) | http://www.freesound.org/people/Torror/sounds/264850/
+  Machine · 345495 | wjoojoo (Freesound 345495) | http://www.freesound.org/people/wjoojoo/sounds/345495/
+  Machine · 52164 | KatHakaku (Freesound 52164) | http://www.freesound.org/people/KatHakaku/sounds/52164/
+  Metal · 60455 | morgantj (Freesound 60455) | http://www.freesound.org/people/morgantj/sounds/60455/
+  Machine · 66618 | susoooo (Freesound 66618) | http://www.freesound.org/people/susoooo/sounds/66618/
+  Machine · 54899 | Satoration (Freesound 54899) | http://www.freesound.org/people/Satoration/sounds/54899/
+  Birds · 100208 | oontzru (Freesound 100208) | http://www.freesound.org/people/oontzru/sounds/100208/
+  Birds · 100473 | iluppai (Freesound 100473) | http://www.freesound.org/people/iluppai/sounds/100473/
+  Birds · 101235 | jacobsteel (Freesound 101235) | http://www.freesound.org/people/jacobsteel/sounds/101235/
+  Birds · 101325 | Pooleside (Freesound 101325) | http://www.freesound.org/people/Pooleside/sounds/101325/
+  Birds · 103538 | dmcmeans (Freesound 103538) | http://www.freesound.org/people/dmcmeans/sounds/103538/
+  Birds · 104482 | soundbytez (Freesound 104482) | http://www.freesound.org/people/soundbytez/sounds/104482/
+  Birds · 107823 | FOBHM (Freesound 107823) | http://www.freesound.org/people/FOBHM/sounds/107823/
+  Birds · 110575 | inchadney (Freesound 110575) | http://www.freesound.org/people/inchadney/sounds/110575/
+  Birds · 118148 | KarlSalamander (Freesound 118148) | http://www.freesound.org/people/KarlSalamander/sounds/118148/
+  Birds · 118777 | odilonmarcenaro (Freesound 118777) | http://www.freesound.org/people/odilonmarcenaro/sounds/118777/
+  Birds · 119124 | music.boy (Freesound 119124) | http://www.freesound.org/people/music.boy/sounds/119124/
+  Birds · 120105 | ZuluT (Freesound 120105) | http://www.freesound.org/people/ZuluT/sounds/120105/
+  Birds · 120695 | ramagochi (Freesound 120695) | http://www.freesound.org/people/ramagochi/sounds/120695/
+  Birds · 121246 | madoherty (Freesound 121246) | http://www.freesound.org/people/madoherty/sounds/121246/
+  Birds · 122617 | urupin (Freesound 122617) | https://www.freesound.org/people/urupin/sounds/122617/
+  Birds · 122742 | tagigobaso (Freesound 122742) | http://www.freesound.org/people/tagigobaso/sounds/122742/
+  Birds · 125725 | alienistcog (Freesound 125725) | http://www.freesound.org/people/alienistcog/sounds/125725/
+  Birds · 127109 | Grigore (Freesound 127109) | http://www.freesound.org/people/Grigore/sounds/127109/
+  Birds · 129336 | le_abbaye_Noirlac (Freesound 129336) | http://www.freesound.org/people/le_abbaye_Noirlac/sounds/129336/
+  Birds · 130459 | mmiron (Freesound 130459) | http://www.freesound.org/people/mmiron/sounds/130459/
+  Birds · 130692 | BrandonNyte (Freesound 130692) | http://www.freesound.org/people/BrandonNyte/sounds/130692/
+  Birds · 131185 | bradpiT156 (Freesound 131185) | http://www.freesound.org/people/bradpiT156/sounds/131185/
+  Birds · 131455 | thecityrings (Freesound 131455) | http://www.freesound.org/people/thecityrings/sounds/131455/
+  Birds · 136850 | s3g (Freesound 136850) | http://www.freesound.org/people/s3g/sounds/136850/
+  Birds · 137878 | mofralus (Freesound 137878) | http://www.freesound.org/people/mofralus/sounds/137878/
+  Birds · 139945 | nikitralala (Freesound 139945) | http://www.freesound.org/people/nikitralala/sounds/139945/
+  Birds · 140815 | FreethinkerAnon (Freesound 140815) | http://www.freesound.org/people/FreethinkerAnon/sounds/140815/
+  Birds · 144127 | NLM (Freesound 144127) | http://www.freesound.org/people/NLM/sounds/144127/
+  Birds · 147685 | FunnyMan374 (Freesound 147685) | http://www.freesound.org/people/FunnyMan374/sounds/147685/
+  Birds · 148143 | LeicesterSoundmap (Freesound 148143) | http://www.freesound.org/people/LeicesterSoundmap/sounds/148143/
+  Birds · 148347 | karloztt (Freesound 148347) | http://www.freesound.org/people/karloztt/sounds/148347/
+  Birds · 149223 | conleec (Freesound 149223) | http://www.freesound.org/people/conleec/sounds/149223/
+  Forest · 149743 | kvgarlic (Freesound 149743) | http://www.freesound.org/people/kvgarlic/sounds/149743/
+  Birds · 152598 | OTBTechno (Freesound 152598) | http://www.freesound.org/people/OTBTechno/sounds/152598/
+  Birds · 154999 | jimsim (Freesound 154999) | http://www.freesound.org/people/jimsim/sounds/154999/
+  Birds · 15542 | Bram (Freesound 15542) | http://www.freesound.org/people/Bram/sounds/15542/
+  Birds · 156523 | Owl (Freesound 156523) | http://www.freesound.org/people/Owl/sounds/156523/
+  Birds · 16934 | sculptor (Freesound 16934) | http://www.freesound.org/people/sculptor/sounds/16934/
+  Birds · 17348 | dobroide (Freesound 17348) | http://www.freesound.org/people/dobroide/sounds/17348/
+  Birds · 17535 | cfork (Freesound 17535) | http://www.freesound.org/people/cfork/sounds/17535/
+  Birds · 19095 | StarRock (Freesound 19095) | http://www.freesound.org/people/StarRock/sounds/19095/
+  Birds · 19274 | acclivity (Freesound 19274) | http://www.freesound.org/people/acclivity/sounds/19274/
+  Birds · 19626 | Freed (Freesound 19626) | http://www.freesound.org/people/Freed/sounds/19626/
+  Birds · 19771 | acclivity (Freesound 19771) | http://www.freesound.org/people/acclivity/sounds/19771/
+  Birds · 21047 | stuart (Freesound 21047) | http://www.freesound.org/people/stuart/sounds/21047/
+  Birds · 2157 | nicStage (Freesound 2157) | http://www.freesound.org/people/nicStage/sounds/2157/
+  Birds · 21842 | reinsamba (Freesound 21842) | http://www.freesound.org/people/reinsamba/sounds/21842/
+  Birds · 24949 | Terwelp (Freesound 24949) | http://www.freesound.org/people/Terwelp/sounds/24949/
+  Birds · 27493 | genghis attenborough (Freesound 27493) | http://www.freesound.org/people/genghis%20attenborough/sounds/27493/
+  Birds · 31597 | cognito perceptu (Freesound 31597) | http://www.freesound.org/people/cognito%20perceptu/sounds/31597/
+  Birds · 31960 | HerbertBoland (Freesound 31960) | http://www.freesound.org/people/HerbertBoland/sounds/31960/
+  Birds · 35139 | roubignolle (Freesound 35139) | http://www.freesound.org/people/roubignolle/sounds/35139/
+  Birds · 353362 | klankbeeld (Freesound 353362) | http://www.freesound.org/people/klankbeeld/sounds/353362/
+  Birds · 38895 | crk365 (Freesound 38895) | http://www.freesound.org/people/crk365/sounds/38895/
+  Birds · 39832 | Arctura (Freesound 39832) | http://www.freesound.org/people/Arctura/sounds/39832/
+  Birds · 40824 | inchadney (Freesound 40824) | http://www.freesound.org/people/inchadney/sounds/40824/
+  Birds · 41306 | amabok (Freesound 41306) | http://www.freesound.org/people/amabok/sounds/41306/
+  Birds · 41322 | gurdonark (Freesound 41322) | http://www.freesound.org/people/gurdonark/sounds/41322/
+  Birds · 45138 | sanus_excipio (Freesound 45138) | http://www.freesound.org/people/sanus_excipio/sounds/45138/
+  Forest · 45518 | daveincamas (Freesound 45518) | http://www.freesound.org/people/daveincamas/sounds/45518/
+  Birds · 46041 | cajo (Freesound 46041) | http://www.freesound.org/people/cajo/sounds/46041/
+  Birds · 46142 | Tito Lahaye (Freesound 46142) | http://www.freesound.org/people/Tito%20Lahaye/sounds/46142/
+  Birds · 46904 | galeku (Freesound 46904) | http://www.freesound.org/people/galeku/sounds/46904/
+  Birds · 51172 | RutgerMuller (Freesound 51172) | http://www.freesound.org/people/RutgerMuller/sounds/51172/
+  Birds · 51777 | kyles (Freesound 51777) | http://www.freesound.org/people/kyles/sounds/51777/
+  Birds · 52042 | Robinhood76 (Freesound 52042) | http://www.freesound.org/people/Robinhood76/sounds/52042/
+  Birds · 52298 | ERH (Freesound 52298) | http://www.freesound.org/people/ERH/sounds/52298/
+  Birds · 52877 | sanus_excipio (Freesound 52877) | http://www.freesound.org/people/sanus_excipio/sounds/52877/
+  Birds · 53752 | qubodup (Freesound 53752) | http://www.freesound.org/people/qubodup/sounds/53752/
+  Birds · 54595 | reinsamba (Freesound 54595) | http://www.freesound.org/people/reinsamba/sounds/54595/
+  Birds · 54806 | pcaeldries (Freesound 54806) | http://www.freesound.org/people/pcaeldries/sounds/54806/
+  Birds · 54948 | LG (Freesound 54948) | http://www.freesound.org/people/LG/sounds/54948/
+  Birds · 55115 | NoiseCollector (Freesound 55115) | http://www.freesound.org/people/NoiseCollector/sounds/55115/
+  Birds · 55349 | eric5335 (Freesound 55349) | http://www.freesound.org/people/eric5335/sounds/55349/
+  Birds · 56522 | LG (Freesound 56522) | http://www.freesound.org/people/LG/sounds/56522/
+  Birds · 57889 | dkustic (Freesound 57889) | http://www.freesound.org/people/dkustic/sounds/57889/
+  Birds · 58926 | guitarguy1985 (Freesound 58926) | http://www.freesound.org/people/guitarguy1985/sounds/58926/
+  Birds · 58947 | mitchellsounds (Freesound 58947) | http://www.freesound.org/people/mitchellsounds/sounds/58947/
+  Birds · 59229 | Sparrer (Freesound 59229) | http://www.freesound.org/people/Sparrer/sounds/59229/
+  Birds · 59247 | f_ilippo (Freesound 59247) | http://www.freesound.org/people/f_ilippo/sounds/59247/
+  Birds · 61388 | Benbojangles (Freesound 61388) | http://www.freesound.org/people/Benbojangles/sounds/61388/
+  Birds · 61620 | ariepaul (Freesound 61620) | http://www.freesound.org/people/ariepaul/sounds/61620/
+  Birds · 61671 | Robinhood76 (Freesound 61671) | http://www.freesound.org/people/Robinhood76/sounds/61671/
+  Birds · 62281 | digifishmusic (Freesound 62281) | http://www.freesound.org/people/digifishmusic/sounds/62281/
+  Birds · 65487 | KGJones (Freesound 65487) | http://www.freesound.org/people/KGJones/sounds/65487/
+  Birds · 65880 | juskiddink (Freesound 65880) | http://www.freesound.org/people/juskiddink/sounds/65880/
+  Birds · 66615 | susoooo (Freesound 66615) | http://www.freesound.org/people/susoooo/sounds/66615/
+  Birds · 66726 | SunnySideSound (Freesound 66726) | http://www.freesound.org/people/SunnySideSound/sounds/66726/
+  Birds · 67237 | Dig2008 (Freesound 67237) | http://www.freesound.org/people/Dig2008/sounds/67237/
+  Birds · 68205 | zebraphone (Freesound 68205) | http://www.freesound.org/people/zebraphone/sounds/68205/
+  Birds · 69648 | Benboncan (Freesound 69648) | http://www.freesound.org/people/Benboncan/sounds/69648/
+  Birds · 73708 | Akacie (Freesound 73708) | https://www.freesound.org/people/Akacie/sounds/73708/
+  Birds · 7897 | schluppipuppie (Freesound 7897) | http://www.freesound.org/people/schluppipuppie/sounds/7897/
+  Birds · 80846 | jppi_Stu (Freesound 80846) | http://www.freesound.org/people/jppi_Stu/sounds/80846/
+  Birds · 81720 | silencyo (Freesound 81720) | http://www.freesound.org/people/silencyo/sounds/81720/
+  Birds · 83961 | Kyster (Freesound 83961) | http://www.freesound.org/people/Kyster/sounds/83961/
+  Birds · 95258 | wildear1 (Freesound 95258) | http://www.freesound.org/people/wildear1/sounds/95258/
+  Birds · 96898 | kev6246 (Freesound 96898) | http://www.freesound.org/people/kev6246/sounds/96898/
+  Birds · 97920 | jakobthiesen (Freesound 97920) | http://www.freesound.org/people/jakobthiesen/sounds/97920/
+  Birds · 99018 | LondonSoundSurvey (Freesound 99018) | http://www.freesound.org/people/LondonSoundSurvey/sounds/99018/
+  Ambience · 106869 | sean.townsend (Freesound 106869) | http://www.freesound.org/people/sean.townsend/sounds/106869/
+  Ambience · 120156 | Keygenerator (Freesound 120156) | http://www.freesound.org/people/Keygenerator/sounds/120156/
+  Ambience · 120899 | hear-no-elvis (Freesound 120899) | http://www.freesound.org/people/hear-no-elvis/sounds/120899/
+  Ambience · 127242 | Sempoo (Freesound 127242) | http://www.freesound.org/people/Sempoo/sounds/127242/
+  Ambience · 129340 | le_abbaye_Noirlac (Freesound 129340) | http://www.freesound.org/people/le_abbaye_Noirlac/sounds/129340/
+  Ambience · 129679 | jmbphilmes (Freesound 129679) | http://www.freesound.org/people/jmbphilmes/sounds/129679/
+  Ambience · 130215 | le_abbaye_Noirlac (Freesound 130215) | http://www.freesound.org/people/le_abbaye_Noirlac/sounds/130215/
+  Ambience · 130798 | frederic.font (Freesound 130798) | http://www.freesound.org/people/frederic.font/sounds/130798/
+  Ambience · 130997 | frederic.font (Freesound 130997) | http://www.freesound.org/people/frederic.font/sounds/130997/
+  Ambience · 133727 | Ephemeral_Rift (Freesound 133727) | http://www.freesound.org/people/Ephemeral_Rift/sounds/133727/
+  Ambience · 13492 | schluppipuppie (Freesound 13492) | http://www.freesound.org/people/schluppipuppie/sounds/13492/
+  Ambience · 135620 | reg7783 (Freesound 135620) | http://www.freesound.org/people/reg7783/sounds/135620/
+  Ambience · 139092 | frasbr (Freesound 139092) | http://www.freesound.org/people/frasbr/sounds/139092/
+  Ambience · 144981 | are16ocean (Freesound 144981) | http://www.freesound.org/people/are16ocean/sounds/144981/
+  Ambience · 145395 | CastleofSamples (Freesound 145395) | http://www.freesound.org/people/CastleofSamples/sounds/145395/
+  Ambience · 150190 | Berwitz (Freesound 150190) | http://www.freesound.org/people/Berwitz/sounds/150190/
+  Ambience · 154917 | Owl (Freesound 154917) | http://www.freesound.org/people/Owl/sounds/154917/
+  Ambience · 157007 | a-row (Freesound 157007) | http://www.freesound.org/people/a-row/sounds/157007/
+  Ambience · 164202 | Danjocross (Freesound 164202) | http://www.freesound.org/people/Danjocross/sounds/164202/
+  Ambience · 169974 | klankbeeld (Freesound 169974) | http://www.freesound.org/people/klankbeeld/sounds/169974/
+  Ambience · 169978 | klankbeeld (Freesound 169978) | http://www.freesound.org/people/klankbeeld/sounds/169978/
+  Ambience · 171425 | klankbeeld (Freesound 171425) | http://www.freesound.org/people/klankbeeld/sounds/171425/
+  Ambience · 172036 | klankbeeld (Freesound 172036) | http://www.freesound.org/people/klankbeeld/sounds/172036/
+  Ambience · 172351 | freemaster2 (Freesound 172351) | http://www.freesound.org/people/freemaster2/sounds/172351/
+  Ambience · 178190 | klankbeeld (Freesound 178190) | http://www.freesound.org/people/klankbeeld/sounds/178190/
+  Ambience · 178698 | Carlvus (Freesound 178698) | http://www.freesound.org/people/Carlvus/sounds/178698/
+  Ambience · 190573 | klankbeeld (Freesound 190573) | http://www.freesound.org/people/klankbeeld/sounds/190573/
+  Ambience · 193483 | kangaroovindaloo (Freesound 193483) | http://www.freesound.org/people/kangaroovindaloo/sounds/193483/
+  Ambience · 193721 | klankbeeld (Freesound 193721) | http://www.freesound.org/people/klankbeeld/sounds/193721/
+  Ambience · 196005 | bolland (Freesound 196005) | http://www.freesound.org/people/bolland/sounds/196005/
+  Ambience · 197545 | flint10 (Freesound 197545) | http://www.freesound.org/people/flint10/sounds/197545/
+  Ambience · 198919 | RichardCulver (Freesound 198919) | http://www.freesound.org/people/RichardCulver/sounds/198919/
+  Ambience · 198933 | RichardCulver (Freesound 198933) | http://www.freesound.org/people/RichardCulver/sounds/198933/
+  Ambience · 202952 | skyko (Freesound 202952) | http://www.freesound.org/people/skyko/sounds/202952/
+  Ambience · 204510 | habbis92 (Freesound 204510) | http://www.freesound.org/people/habbis92/sounds/204510/
+  Ambience · 205710 | davidmenke (Freesound 205710) | http://www.freesound.org/people/davidmenke/sounds/205710/
+  Ambience · 205831 | steph64 (Freesound 205831) | http://www.freesound.org/people/steph64/sounds/205831/
+  Ambience · 209338 | Porphyr (Freesound 209338) | http://www.freesound.org/people/Porphyr/sounds/209338/
+  Ambience · 210107 | Vitouliss (Freesound 210107) | http://www.freesound.org/people/Vitouliss/sounds/210107/
+  Ambience · 212144 | blaukreuz (Freesound 212144) | http://www.freesound.org/people/blaukreuz/sounds/212144/
+  Ambience · 213548 | arnaud coutancier (Freesound 213548) | http://www.freesound.org/people/arnaud%20coutancier/sounds/213548/
+  Ambience · 213708 | klankbeeld (Freesound 213708) | http://www.freesound.org/people/klankbeeld/sounds/213708/
+  Ambience · 214038 | thatjeffcarter (Freesound 214038) | http://www.freesound.org/people/thatjeffcarter/sounds/214038/
+  Ambience · 214663 | hykenfreak (Freesound 214663) | http://www.freesound.org/people/hykenfreak/sounds/214663/
+  Ambience · 215173 | john9 (Freesound 215173) | http://www.freesound.org/people/john9/sounds/215173/
+  Ambience · 219466 | bigpickle51 (Freesound 219466) | http://www.freesound.org/people/bigpickle51/sounds/219466/
+  Ambience · 221677 | klankbeeld (Freesound 221677) | http://www.freesound.org/people/klankbeeld/sounds/221677/
+  Ambience · 238145 | Andy_Gardner (Freesound 238145) | http://www.freesound.org/people/Andy_Gardner/sounds/238145/
+  Ambience · 240895 | reznik_Krkovicka (Freesound 240895) | http://www.freesound.org/people/reznik_Krkovicka/sounds/240895/
+  Ambience · 241659 | addiofbaddi (Freesound 241659) | http://www.freesound.org/people/addiofbaddi/sounds/241659/
+  Ambience · 241731 | AdamWayneGistarb (Freesound 241731) | http://www.freesound.org/people/AdamWayneGistarb/sounds/241731/
+  Ambience · 241771 | conleec (Freesound 241771) | http://www.freesound.org/people/conleec/sounds/241771/
+  Ambience · 242174 | HarryPeeks (Freesound 242174) | http://www.freesound.org/people/HarryPeeks/sounds/242174/
+  Ambience · 244882 | JarredGibb (Freesound 244882) | http://www.freesound.org/people/JarredGibb/sounds/244882/
+  Ambience · 255232 | staticpony1 (Freesound 255232) | http://www.freesound.org/people/staticpony1/sounds/255232/
+  Ambience · 255735 | klankbeeld (Freesound 255735) | http://www.freesound.org/people/klankbeeld/sounds/255735/
+  Ambience · 256544 | Kodack (Freesound 256544) | http://www.freesound.org/people/Kodack/sounds/256544/
+  Ambience · 262692 | Toybox (Freesound 262692) | http://www.freesound.org/people/Toybox/sounds/262692/
+  Ambience · 266633 | klankbeeld (Freesound 266633) | http://www.freesound.org/people/klankbeeld/sounds/266633/
+  Ambience · 269576 | Raffa Jaffa (Freesound 269576) | http://www.freesound.org/people/Raffa%20Jaffa/sounds/269576/
+  Ambience · 270597 | Hoerspielwerkstatt_HEF (Freesound 270597) | http://www.freesound.org/people/Hoerspielwerkstatt_HEF/sounds/270597/
+  Ambience · 271679 | klankbeeld (Freesound 271679) | http://www.freesound.org/people/klankbeeld/sounds/271679/
+  Ambience · 274363 | iamazerrad (Freesound 274363) | http://www.freesound.org/people/iamazerrad/sounds/274363/
+  Ambience · 278868 | Sandermotions (Freesound 278868) | http://www.freesound.org/people/Sandermotions/sounds/278868/
+  Ambience · 30365 | digifishmusic (Freesound 30365) | http://www.freesound.org/people/digifishmusic/sounds/30365/
+  Ambience · 317271 | Dpoggioli (Freesound 317271) | http://www.freesound.org/people/Dpoggioli/sounds/317271/
+  Ambience · 318937 | klankbeeld (Freesound 318937) | http://www.freesound.org/people/klankbeeld/sounds/318937/
+  Ambience · 319150 | klankbeeld (Freesound 319150) | http://www.freesound.org/people/klankbeeld/sounds/319150/
+  Ambience · 320862 | urupin (Freesound 320862) | http://www.freesound.org/people/urupin/sounds/320862/
+  Ambience · 321723 | rhodesmas (Freesound 321723) | http://www.freesound.org/people/rhodesmas/sounds/321723/
+  Ambience · 324493 | Adam_N (Freesound 324493) | http://www.freesound.org/people/Adam_N/sounds/324493/
+  Ambience · 324938 | klankbeeld (Freesound 324938) | http://www.freesound.org/people/klankbeeld/sounds/324938/
+  Ambience · 325806 | 15050_Francois (Freesound 325806) | http://www.freesound.org/people/15050_Francois/sounds/325806/
+  Ambience · 329960 | klankbeeld (Freesound 329960) | http://www.freesound.org/people/klankbeeld/sounds/329960/
+  Ambience · 33180 | ERH (Freesound 33180) | http://www.freesound.org/people/ERH/sounds/33180/
+  Ambience · 33181 | ERH (Freesound 33181) | http://www.freesound.org/people/ERH/sounds/33181/
+  Ambience · 33185 | ERH (Freesound 33185) | http://www.freesound.org/people/ERH/sounds/33185/
+  Ambience · 332764 | Emanuele_Correani (Freesound 332764) | http://www.freesound.org/people/Emanuele_Correani/sounds/332764/
+  Ambience · 332784 | be_a_hero_not_a_patriot (Freesound 332784) | http://www.freesound.org/people/be_a_hero_not_a_patriot/sounds/332784/
+  Ambience · 333221 | hdfreema (Freesound 333221) | https://www.freesound.org/people/hdfreema/sounds/333221/
+  Ambience · 338261 | klankbeeld (Freesound 338261) | http://www.freesound.org/people/klankbeeld/sounds/338261/
+  Ambience · 33838 | ERH (Freesound 33838) | http://www.freesound.org/people/ERH/sounds/33838/
+  Ambience · 340485 | Tristan_Lohengrin (Freesound 340485) | http://www.freesound.org/people/Tristan_Lohengrin/sounds/340485/
+  Ambience · 348862 | newagesoup (Freesound 348862) | http://www.freesound.org/people/newagesoup/sounds/348862/
+  Ambience · 351484 | klankbeeld (Freesound 351484) | http://www.freesound.org/people/klankbeeld/sounds/351484/
+  Ambience · 37216 | sagetyrtle (Freesound 37216) | http://www.freesound.org/people/sagetyrtle/sounds/37216/
+  Ambience · 38962 | Argitoth (Freesound 38962) | http://www.freesound.org/people/Argitoth/sounds/38962/
+  Ambience · 38970 | Argitoth (Freesound 38970) | http://www.freesound.org/people/Argitoth/sounds/38970/
+  Ambience · 41331 | jenslinell (Freesound 41331) | http://www.freesound.org/people/jenslinell/sounds/41331/
+  Ambience · 48045 | mattbronka (Freesound 48045) | http://www.freesound.org/people/mattbronka/sounds/48045/
+  Ambience · 48955 | Connum (Freesound 48955) | http://www.freesound.org/people/Connum/sounds/48955/
+  Ambience · 53593 | arnaud coutancier (Freesound 53593) | http://www.freesound.org/people/arnaud%20coutancier/sounds/53593/
+  Ambience · 54921 | suonho (Freesound 54921) | http://www.freesound.org/people/suonho/sounds/54921/
+  Ambience · 57028 | NoiseCollector (Freesound 57028) | http://www.freesound.org/people/NoiseCollector/sounds/57028/
+  Ambience · 66440 | Bidone (Freesound 66440) | http://www.freesound.org/people/Bidone/sounds/66440/
+  Ambience · 70168 | JustinBW (Freesound 70168) | http://www.freesound.org/people/JustinBW/sounds/70168/
+  Ambience · 71821 | chipfork (Freesound 71821) | http://www.freesound.org/people/chipfork/sounds/71821/
+  Ambience · 72022 | cmusounddesign (Freesound 72022) | http://www.freesound.org/people/cmusounddesign/sounds/72022/
+  Ambience · 75271 | markystar (Freesound 75271) | http://www.freesound.org/people/markystar/sounds/75271/
+  Ambience · 94931 | higginsdj (Freesound 94931) | http://www.freesound.org/people/higginsdj/sounds/94931/
+  Street · 100905 | Timbre (Freesound 100905) | http://www.freesound.org/people/Timbre/sounds/100905/
+  Street · 103983 | bulbastre (Freesound 103983) | http://www.freesound.org/people/bulbastre/sounds/103983/
+  Street · 104041 | RutgerMuller (Freesound 104041) | http://www.freesound.org/people/RutgerMuller/sounds/104041/
+  Street · 121787 | Manicciola (Freesound 121787) | http://www.freesound.org/people/Manicciola/sounds/121787/
+  Street · 122738 | ondrosik (Freesound 122738) | http://www.freesound.org/people/ondrosik/sounds/122738/
+  Street · 128165 | bandasonora (Freesound 128165) | http://www.freesound.org/people/bandasonora/sounds/128165/
+  Street · 130096 | taurindb (Freesound 130096) | http://www.freesound.org/people/taurindb/sounds/130096/
+  Street · 131134 | blaukreuz (Freesound 131134) | http://www.freesound.org/people/blaukreuz/sounds/131134/
+  Street · 131428 | fobfob (Freesound 131428) | http://www.freesound.org/people/fobfob/sounds/131428/
+  Street · 135094 | mzui (Freesound 135094) | http://www.freesound.org/people/mzui/sounds/135094/
+  Street · 135581 | kingsamas (Freesound 135581) | http://www.freesound.org/people/kingsamas/sounds/135581/
+  Street · 135811 | reinsamba (Freesound 135811) | http://www.freesound.org/people/reinsamba/sounds/135811/
+  Street · 136666 | cccooollliiinnn (Freesound 136666) | http://www.freesound.org/people/cccooollliiinnn/sounds/136666/
+  Street · 138247 | Hupguy (Freesound 138247) | http://www.freesound.org/people/Hupguy/sounds/138247/
+  Street · 142296 | dubmill (Freesound 142296) | http://www.freesound.org/people/dubmill/sounds/142296/
+  Street · 14468 | RCA (Freesound 14468) | http://www.freesound.org/people/RCA/sounds/14468/
+  Store · 14526 | uauaua (Freesound 14526) | http://www.freesound.org/people/uauaua/sounds/14526/
+  Street · 145399 | danielsalazar (Freesound 145399) | http://www.freesound.org/people/danielsalazar/sounds/145399/
+  Street · 148889 | silencyo (Freesound 148889) | http://www.freesound.org/people/silencyo/sounds/148889/
+  Street · 152038 | h0_x (Freesound 152038) | http://www.freesound.org/people/h0_x/sounds/152038/
+  Store · 155049 | bmoreno (Freesound 155049) | http://www.freesound.org/people/bmoreno/sounds/155049/
+  Street · 155638 | poorenglishjuggler (Freesound 155638) | http://www.freesound.org/people/poorenglishjuggler/sounds/155638/
+  Street · 156965 | martats (Freesound 156965) | http://www.freesound.org/people/martats/sounds/156965/
+  Street · 159482 | JorgenJak (Freesound 159482) | http://www.freesound.org/people/JorgenJak/sounds/159482/
+  Street · 161328 | kabit (Freesound 161328) | http://www.freesound.org/people/kabit/sounds/161328/
+  Street · 161975 | Zabuhailo (Freesound 161975) | http://www.freesound.org/people/Zabuhailo/sounds/161975/
+  Street · 164344 | reinsamba (Freesound 164344) | http://www.freesound.org/people/reinsamba/sounds/164344/
+  Street · 166816 | laugar (Freesound 166816) | http://www.freesound.org/people/laugar/sounds/166816/
+  Street · 168069 | foleygoal (Freesound 168069) | http://www.freesound.org/people/foleygoal/sounds/168069/
+  Street · 168481 | buddhabeats (Freesound 168481) | http://www.freesound.org/people/buddhabeats/sounds/168481/
+  Store · 169186 | Philip Goddard (Freesound 169186) | http://www.freesound.org/people/Philip%20Goddard/sounds/169186/
+  Street · 169230 | klankbeeld (Freesound 169230) | http://www.freesound.org/people/klankbeeld/sounds/169230/
+  Square · 176025 | LukeIRL (Freesound 176025) | http://www.freesound.org/people/LukeIRL/sounds/176025/
+  Street · 177543 | kyles (Freesound 177543) | http://www.freesound.org/people/kyles/sounds/177543/
+  Store · 180911 | Philip Goddard (Freesound 180911) | http://www.freesound.org/people/Philip%20Goddard/sounds/180911/
+  Street · 181098 | samplag (Freesound 181098) | http://www.freesound.org/people/samplag/sounds/181098/
+  Store · 184882 | Omar Alvarado (Freesound 184882) | http://www.freesound.org/people/Omar%20Alvarado/sounds/184882/
+  Street · 185373 | Northern_Monkey (Freesound 185373) | http://www.freesound.org/people/Northern_Monkey/sounds/185373/
+  Street · 189825 | barcelonetasonora (Freesound 189825) | http://www.freesound.org/people/barcelonetasonora/sounds/189825/
+  Street · 191746 | Owl (Freesound 191746) | http://www.freesound.org/people/Owl/sounds/191746/
+  Street · 192788 | klankbeeld (Freesound 192788) | http://www.freesound.org/people/klankbeeld/sounds/192788/
+  Street · 198941 | Zbylut (Freesound 198941) | http://www.freesound.org/people/Zbylut/sounds/198941/
+  Store · 199687 | Omar Alvarado (Freesound 199687) | http://www.freesound.org/people/Omar%20Alvarado/sounds/199687/
+  Street · 200814 | bassboybg (Freesound 200814) | http://www.freesound.org/people/bassboybg/sounds/200814/
+  Store · 202327 | mzui (Freesound 202327) | http://www.freesound.org/people/mzui/sounds/202327/
+  Street · 204364 | SoundsExciting (Freesound 204364) | http://www.freesound.org/people/SoundsExciting/sounds/204364/
+  Street · 210150 | pcfstnk (Freesound 210150) | http://www.freesound.org/people/pcfstnk/sounds/210150/
+  Street · 213755 | Moonlight Dancer (Freesound 213755) | http://www.freesound.org/people/Moonlight%20Dancer/sounds/213755/
+  Store · 216044 | andlindst (Freesound 216044) | http://www.freesound.org/people/andlindst/sounds/216044/
+  Street · 217609 | Steph_Nii (Freesound 217609) | http://www.freesound.org/people/Steph_Nii/sounds/217609/
+  Square · 219317 | felix.blume (Freesound 219317) | https://www.freesound.org/people/felix.blume/sounds/219317/
+  Street · 221274 | tonant (Freesound 221274) | http://www.freesound.org/people/tonant/sounds/221274/
+  Street · 22326 | mr_rolfi (Freesound 22326) | http://www.freesound.org/people/mr_rolfi/sounds/22326/
+  Street · 22587 | LG (Freesound 22587) | http://www.freesound.org/people/LG/sounds/22587/
+  Street · 22726 | Charel Sytze (Freesound 22726) | http://www.freesound.org/people/Charel%20Sytze/sounds/22726/
+  Street · 25823 | Heigh-hoo (Freesound 25823) | http://www.freesound.org/people/Heigh-hoo/sounds/25823/
+  Street · 27864 | balaam (Freesound 27864) | http://www.freesound.org/people/balaam/sounds/27864/
+  Street · 28385 | sazman (Freesound 28385) | http://www.freesound.org/people/sazman/sounds/28385/
+  Street · 29575 | man (Freesound 29575) | http://www.freesound.org/people/man/sounds/29575/
+  Street · 33544 | themfish (Freesound 33544) | http://www.freesound.org/people/themfish/sounds/33544/
+  Street · 35299 | Bansemer (Freesound 35299) | http://www.freesound.org/people/Bansemer/sounds/35299/
+  Street · 35545 | Corsica_S (Freesound 35545) | http://www.freesound.org/people/Corsica_S/sounds/35545/
+  Street · 36155 | milo (Freesound 36155) | http://www.freesound.org/people/milo/sounds/36155/
+  Street · 36429 | matiasromero (Freesound 36429) | http://www.freesound.org/people/matiasromero/sounds/36429/
+  Street · 36897 | icmusic (Freesound 36897) | http://www.freesound.org/people/icmusic/sounds/36897/
+  Street · 36934 | Pooleside (Freesound 36934) | http://www.freesound.org/people/Pooleside/sounds/36934/
+  Street · 41639 | hanstimm (Freesound 41639) | http://www.freesound.org/people/hanstimm/sounds/41639/
+  Street · 42368 | ERH (Freesound 42368) | http://www.freesound.org/people/ERH/sounds/42368/
+  Street · 43766 | audiohoor (Freesound 43766) | http://www.freesound.org/people/audiohoor/sounds/43766/
+  Street · 46302 | arnaud coutancier (Freesound 46302) | http://www.freesound.org/people/arnaud%20coutancier/sounds/46302/
+  Street · 46348 | inchadney (Freesound 46348) | http://www.freesound.org/people/inchadney/sounds/46348/
+  Street · 46732 | ReWired (Freesound 46732) | http://www.freesound.org/people/ReWired/sounds/46732/
+  Square · 48205 | palimpsest73 (Freesound 48205) | http://www.freesound.org/people/palimpsest73/sounds/48205/
+  Street · 49599 | BoilingSand (Freesound 49599) | http://www.freesound.org/people/BoilingSand/sounds/49599/
+  Street · 49763 | dADDoiT (Freesound 49763) | http://www.freesound.org/people/dADDoiT/sounds/49763/
+  Street · 51181 | jaume orejuela (Freesound 51181) | http://www.freesound.org/people/jaume%20orejuela/sounds/51181/
+  Street · 51783 | kyles (Freesound 51783) | http://www.freesound.org/people/kyles/sounds/51783/
+  Street · 52442 | john9 (Freesound 52442) | http://www.freesound.org/people/john9/sounds/52442/
+  Street · 52788 | alexbird (Freesound 52788) | http://www.freesound.org/people/alexbird/sounds/52788/
+  Store · 54826 | BigDaddyD (Freesound 54826) | http://www.freesound.org/people/BigDaddyD/sounds/54826/
+  Street · 56918 | Robinhood76 (Freesound 56918) | http://www.freesound.org/people/Robinhood76/sounds/56918/
+  Store · 57777 | rastataper (Freesound 57777) | http://www.freesound.org/people/rastataper/sounds/57777/
+  Street · 60574 | ariat (Freesound 60574) | http://www.freesound.org/people/ariat/sounds/60574/
+  Street · 62633 | bsumusictech (Freesound 62633) | http://www.freesound.org/people/bsumusictech/sounds/62633/
+  Store · 66604 | susoooo (Freesound 66604) | http://www.freesound.org/people/susoooo/sounds/66604/
+  Street · 73278 | vedas (Freesound 73278) | http://www.freesound.org/people/vedas/sounds/73278/
+  Street · 73610 | holger.schwetter (Freesound 73610) | http://www.freesound.org/people/holger.schwetter/sounds/73610/
+  Street · 74324 | spudsonic (Freesound 74324) | http://www.freesound.org/people/spudsonic/sounds/74324/
+  Street · 74382 | crop_circles (Freesound 74382) | http://www.freesound.org/people/crop_circles/sounds/74382/
+  Street · 74967 | CBeeching (Freesound 74967) | http://www.freesound.org/people/CBeeching/sounds/74967/
+  Street · 7560 | dobroide (Freesound 7560) | http://www.freesound.org/people/dobroide/sounds/7560/
+  Street · 75783 | NoiseCollector (Freesound 75783) | http://www.freesound.org/people/NoiseCollector/sounds/75783/
+  Street · 78434 | Tito Lahaye (Freesound 78434) | http://www.freesound.org/people/Tito%20Lahaye/sounds/78434/
+  Street · 78661 | miastodzwiekow (Freesound 78661) | http://www.freesound.org/people/miastodzwiekow/sounds/78661/
+  Street · 80258 | dosa1 (Freesound 80258) | http://www.freesound.org/people/dosa1/sounds/80258/
+  Grocery · 83477 | cognito perceptu (Freesound 83477) | http://www.freesound.org/people/cognito%20perceptu/sounds/83477/
+  Street · 83838 | jgrzinich (Freesound 83838) | http://www.freesound.org/people/jgrzinich/sounds/83838/
+  Street · 87065 | ruido_maximo (Freesound 87065) | http://www.freesound.org/people/ruido_maximo/sounds/87065/
+  Street · 92656 | bourotte2 (Freesound 92656) | http://www.freesound.org/people/bourotte2/sounds/92656/
+  Street · 95843 | cmusounddesign (Freesound 95843) | http://www.freesound.org/people/cmusounddesign/sounds/95843/
+
+International Soundscape Database
+---------------------------------
+Source:      https://zenodo.org/records/10672568
+Cite:        Mitchell, A., et al. (2021). The International Soundscape Database. Zenodo, doi:10.5281/zenodo.10672568. CC BY 4.0. Recordings level-adjusted; one recording per location.
+Licence:     CC BY 4.0: may be shared with credit, including changes made (levels adjusted).
+Coordinates: ISO/TS 12913-3 pleasantness and eventfulness (the ISO counterpart of arousal), each -1..+1, averaged over every survey at the location.

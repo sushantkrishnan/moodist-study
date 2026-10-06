@@ -1,0 +1,20 @@
+[
+ {
+  "count": 398,
+  "file": "araus/library.json",
+  "id": "araus",
+  "name": "ARAUS maskers"
+ },
+ {
+  "count": 600,
+  "file": "emo-soundscapes/library.json",
+  "id": "emo-soundscapes",
+  "name": "Emo-Soundscapes"
+ },
+ {
+  "count": 18,
+  "file": "isd/library.json",
+  "id": "isd",
+  "name": "International Soundscape Database"
+ }
+]
